@@ -1,0 +1,999 @@
+id number,first name,last name,grade,school,district,dist_code,sys_id,pathway,WBL_Event_Count
+39481,Halee,Rice,10,james gordon center for learning,gotham city public schools,gcps,gcps39481,healthcare,3
+37265,Shellie,Hopkins,9,james gordon center for learning,gotham city public schools,gcps,gcps37265,,1
+60513,Moses,Solomon,10,lucius fox high school,gotham city public schools,gcps,gcps60513,healthcare,2
+43758,Macon,Hewitt,12,james gordon center for learning,gotham city public schools,gcps,gcps43758,healthcare,1
+71800,Jenette,Jimenez,12,lost boys academy,neverland public schools,nps,nps71800,,0
+32657,Chanda,Shaffer,11,lost boys academy,neverland public schools,nps,nps32657,,0
+41126,Felix,Perkins,9,captain hook high school,neverland public schools,nps,nps41126,manufacturing,4
+75026,Cedric,Moss,11,lucius fox high school,gotham city public schools,gcps,gcps75026,healthcare,2
+44509,Cailin,Russell,11,lost boys academy,neverland public schools,nps,nps44509,manufacturing,1
+66859,Sara,Garrison,10,james gordon center for learning,gotham city public schools,gcps,gcps66859,,1
+30153,Joshua,Greer,11,lost boys academy,neverland public schools,nps,nps30153,,1
+78598,Ebony,Garrison,10,james gordon center for learning,gotham city public schools,gcps,gcps78598,healthcare,1
+25531,Erasmus,Drake,9,captain hook high school,neverland public schools,nps,nps25531,manufacturing,1
+67538,Cynthia,Cohen,12,lost boys academy,neverland public schools,nps,nps67538,manufacturing,3
+50121,Joseph,Glenn,11,lucius fox high school,gotham city public schools,gcps,gcps50121,healthcare,3
+83147,Jaime,Avery,11,lost boys academy,neverland public schools,nps,nps83147,,0
+38972,Nero,Macdonald,11,lost boys academy,neverland public schools,nps,nps38972,manufacturing,0
+28447,Elliott,Rosales,11,lucius fox high school,gotham city public schools,gcps,gcps28447,healthcare,3
+99154,Gregory,Hall,10,captain hook high school,neverland public schools,nps,nps99154,manufacturing,3
+49875,Halee,Case,9,captain hook high school,neverland public schools,nps,nps49875,manufacturing,6
+12062,Tanner,Klein,12,lost boys academy,neverland public schools,nps,nps12062,,3
+34490,Cara,Combs,11,lucius fox high school,gotham city public schools,gcps,gcps34490,,4
+37870,Patience,Mueller,10,lucius fox high school,gotham city public schools,gcps,gcps37870,healthcare,0
+54203,Brittany,Webb,12,captain hook high school,neverland public schools,nps,nps54203,manufacturing,3
+34160,Cody,Edwards,11,captain hook high school,neverland public schools,nps,nps34160,manufacturing,1
+70627,Armand,Nunez,11,lost boys academy,neverland public schools,nps,nps70627,manufacturing,8
+56356,Sharon,Myers,11,lost boys academy,neverland public schools,nps,nps56356,,0
+76226,Steel,Cameron,10,captain hook high school,neverland public schools,nps,nps76226,,1
+95587,Geraldine,Ross,9,james gordon center for learning,gotham city public schools,gcps,gcps95587,healthcare,1
+87997,Magee,Austin,12,lost boys academy,neverland public schools,nps,nps87997,,0
+19290,Gil,Shepard,12,captain hook high school,neverland public schools,nps,nps19290,,3
+97570,Shelly,Hill,10,lucius fox high school,gotham city public schools,gcps,gcps97570,healthcare,0
+55757,Vielka,Russell,12,lucius fox high school,gotham city public schools,gcps,gcps55757,,0
+88182,Penelope,Powers,9,captain hook high school,neverland public schools,nps,nps88182,,1
+21636,Marsden,Mckay,9,lost boys academy,neverland public schools,nps,nps21636,manufacturing,2
+81097,Shaine,Hinton,11,lost boys academy,neverland public schools,nps,nps81097,,0
+49883,Ralph,Burnett,11,lucius fox high school,gotham city public schools,gcps,gcps49883,healthcare,2
+27211,Rafael,Pugh,9,captain hook high school,neverland public schools,nps,nps27211,,1
+30149,Barrett,Walters,12,captain hook high school,neverland public schools,nps,nps30149,manufacturing,4
+80954,Yvette,Vincent,10,james gordon center for learning,gotham city public schools,gcps,gcps80954,,1
+46473,Courtney,Mason,11,captain hook high school,neverland public schools,nps,nps46473,,3
+19758,William,Key,9,james gordon center for learning,gotham city public schools,gcps,gcps19758,,1
+21458,Jakeem,O'donnell,10,lost boys academy,neverland public schools,nps,nps21458,manufacturing,1
+74211,Rahim,Ayala,9,james gordon center for learning,gotham city public schools,gcps,gcps74211,,1
+88346,Henry,Buckley,10,lucius fox high school,gotham city public schools,gcps,gcps88346,healthcare,2
+88317,Leandra,Mcleod,9,james gordon center for learning,gotham city public schools,gcps,gcps88317,,1
+71635,Harper,Le,9,lucius fox high school,gotham city public schools,gcps,gcps71635,,0
+58880,Knox,Lee,10,captain hook high school,neverland public schools,nps,nps58880,manufacturing,3
+30648,Dana,Cortez,12,captain hook high school,neverland public schools,nps,nps30648,,2
+86341,Brenda,Ortiz,10,james gordon center for learning,gotham city public schools,gcps,gcps86341,healthcare,3
+20043,Signe,Gentry,11,lost boys academy,neverland public schools,nps,nps20043,manufacturing,2
+90312,Risa,Irwin,12,lucius fox high school,gotham city public schools,gcps,gcps90312,,3
+72944,Yoshi,Bolton,11,captain hook high school,neverland public schools,nps,nps72944,,0
+94067,Kirk,Booth,10,lucius fox high school,gotham city public schools,gcps,gcps94067,,3
+86642,Baxter,Becker,9,lucius fox high school,gotham city public schools,gcps,gcps86642,healthcare,2
+61498,Keane,Douglas,10,lucius fox high school,gotham city public schools,gcps,gcps61498,,3
+70007,Clayton,Page,10,lucius fox high school,gotham city public schools,gcps,gcps70007,,3
+41062,Vaughan,Neal,12,james gordon center for learning,gotham city public schools,gcps,gcps41062,,1
+81695,Emerson,Whitfield,12,lost boys academy,neverland public schools,nps,nps81695,manufacturing,5
+49706,Hiram,Wilson,11,lucius fox high school,gotham city public schools,gcps,gcps49706,,2
+67375,Keane,Rowland,10,captain hook high school,neverland public schools,nps,nps67375,,2
+29759,Zephr,Rogers,12,james gordon center for learning,gotham city public schools,gcps,gcps29759,,1
+86827,Gareth,Clements,10,lost boys academy,neverland public schools,nps,nps86827,manufacturing,2
+21924,Rhea,Kinney,12,lucius fox high school,gotham city public schools,gcps,gcps21924,healthcare,4
+58440,John,Lynn,9,lost boys academy,neverland public schools,nps,nps58440,,3
+20912,Mariam,Cross,10,james gordon center for learning,gotham city public schools,gcps,gcps20912,healthcare,2
+57307,Claudia,Thompson,9,lost boys academy,neverland public schools,nps,nps57307,,0
+96316,Armando,Espinoza,9,lucius fox high school,gotham city public schools,gcps,gcps96316,healthcare,3
+71632,Yvette,Ray,10,lost boys academy,neverland public schools,nps,nps71632,,5
+14079,Melyssa,Osborn,10,lost boys academy,neverland public schools,nps,nps14079,manufacturing,2
+93797,Zachary,Alexander,10,james gordon center for learning,gotham city public schools,gcps,gcps93797,healthcare,1
+87969,Eaton,Pace,11,lost boys academy,neverland public schools,nps,nps87969,,2
+20630,Maggie,Navarro,11,lucius fox high school,gotham city public schools,gcps,gcps20630,healthcare,0
+55707,Jaquelyn,Kim,12,captain hook high school,neverland public schools,nps,nps55707,,3
+53427,Wayne,Michael,12,lucius fox high school,gotham city public schools,gcps,gcps53427,healthcare,4
+17291,Cynthia,Sims,10,james gordon center for learning,gotham city public schools,gcps,gcps17291,healthcare,1
+26914,Drake,Carter,9,lost boys academy,neverland public schools,nps,nps26914,manufacturing,3
+90029,Oliver,Summers,10,lucius fox high school,gotham city public schools,gcps,gcps90029,,1
+52536,Nora,Booker,12,lost boys academy,neverland public schools,nps,nps52536,manufacturing,3
+25720,Keely,Merritt,10,captain hook high school,neverland public schools,nps,nps25720,manufacturing,1
+53337,Dalton,Cook,12,lucius fox high school,gotham city public schools,gcps,gcps53337,,0
+51909,Declan,Park,10,lost boys academy,neverland public schools,nps,nps51909,,1
+35975,Lila,Klein,11,lost boys academy,neverland public schools,nps,nps35975,,0
+31860,Nelle,Bird,12,lost boys academy,neverland public schools,nps,nps31860,manufacturing,3
+19427,Kelly,David,11,lucius fox high school,gotham city public schools,gcps,gcps19427,,0
+67547,Ebony,Watts,12,captain hook high school,neverland public schools,nps,nps67547,manufacturing,4
+84350,Carly,Duran,12,james gordon center for learning,gotham city public schools,gcps,gcps84350,,3
+12153,Linus,Vang,11,lucius fox high school,gotham city public schools,gcps,gcps12153,healthcare,3
+94664,Allen,Terry,10,lost boys academy,neverland public schools,nps,nps94664,,0
+61055,Sophia,Lowe,10,lucius fox high school,gotham city public schools,gcps,gcps61055,,2
+99229,Helen,Jordan,10,captain hook high school,neverland public schools,nps,nps99229,,1
+34894,Hasad,Salazar,11,captain hook high school,neverland public schools,nps,nps34894,,5
+74160,Suki,Phelps,12,lost boys academy,neverland public schools,nps,nps74160,,2
+44405,Haviva,Drake,10,captain hook high school,neverland public schools,nps,nps44405,,4
+20698,Rae,Aguirre,11,captain hook high school,neverland public schools,nps,nps20698,manufacturing,2
+90369,Hadley,Hardin,12,james gordon center for learning,gotham city public schools,gcps,gcps90369,healthcare,1
+26579,Tobias,Beck,12,james gordon center for learning,gotham city public schools,gcps,gcps26579,,0
+44861,Raymond,Wilkerson,12,lucius fox high school,gotham city public schools,gcps,gcps44861,healthcare,3
+52141,Richard,Davidson,9,lost boys academy,neverland public schools,nps,nps52141,,1
+62964,Colette,Solomon,12,captain hook high school,neverland public schools,nps,nps62964,,0
+76313,Sopoline,Edwards,12,lost boys academy,neverland public schools,nps,nps76313,manufacturing,2
+12619,Alea,Schroeder,12,lost boys academy,neverland public schools,nps,nps12619,manufacturing,2
+93297,Kylynn,William,10,lucius fox high school,gotham city public schools,gcps,gcps93297,,1
+12615,Melodie,Charles,12,captain hook high school,neverland public schools,nps,nps12615,manufacturing,2
+74845,Jordan,Daniel,12,captain hook high school,neverland public schools,nps,nps74845,manufacturing,1
+91924,Maggy,Sellers,10,captain hook high school,neverland public schools,nps,nps91924,manufacturing,2
+52019,Yoshio,Donaldson,12,captain hook high school,neverland public schools,nps,nps52019,manufacturing,1
+36604,Garrett,Hays,12,james gordon center for learning,gotham city public schools,gcps,gcps36604,healthcare,2
+86285,Tallulah,Tillman,10,lucius fox high school,gotham city public schools,gcps,gcps86285,,1
+65604,Unity,Vaughan,10,james gordon center for learning,gotham city public schools,gcps,gcps65604,healthcare,1
+59600,Andrew,Boyd,9,lucius fox high school,gotham city public schools,gcps,gcps59600,,2
+46946,Roary,Castaneda,9,captain hook high school,neverland public schools,nps,nps46946,manufacturing,3
+89226,Ethan,Chan,10,lost boys academy,neverland public schools,nps,nps89226,manufacturing,3
+55842,Xandra,Hart,11,lucius fox high school,gotham city public schools,gcps,gcps55842,healthcare,4
+82206,Cherokee,Schroeder,11,lost boys academy,neverland public schools,nps,nps82206,,0
+98514,Alana,Gillespie,12,lost boys academy,neverland public schools,nps,nps98514,,2
+99254,Magee,Parks,9,lost boys academy,neverland public schools,nps,nps99254,manufacturing,5
+15954,Yeo,Sargent,9,captain hook high school,neverland public schools,nps,nps15954,,2
+47461,Bethany,Edwards,9,lost boys academy,neverland public schools,nps,nps47461,manufacturing,2
+67891,Caryn,Mann,11,captain hook high school,neverland public schools,nps,nps67891,,1
+63687,Sean,Morgan,10,captain hook high school,neverland public schools,nps,nps63687,manufacturing,2
+62128,Walker,Raymond,10,captain hook high school,neverland public schools,nps,nps62128,,0
+68780,Joel,Conley,12,captain hook high school,neverland public schools,nps,nps68780,manufacturing,4
+50669,Dahlia,Spencer,9,lucius fox high school,gotham city public schools,gcps,gcps50669,,2
+10657,Rylee,Maynard,10,lost boys academy,neverland public schools,nps,nps10657,manufacturing,2
+38512,Jayme,Davenport,10,captain hook high school,neverland public schools,nps,nps38512,,0
+53893,Daphne,Bowen,10,lucius fox high school,gotham city public schools,gcps,gcps53893,,2
+73590,Kristen,Horn,12,captain hook high school,neverland public schools,nps,nps73590,manufacturing,2
+91042,Regan,Calderon,12,lucius fox high school,gotham city public schools,gcps,gcps91042,,4
+11878,Kenyon,Lewis,11,lost boys academy,neverland public schools,nps,nps11878,,0
+77886,Vance,Mcfadden,10,captain hook high school,neverland public schools,nps,nps77886,,1
+36648,Zoe,Carpenter,10,lost boys academy,neverland public schools,nps,nps36648,manufacturing,1
+81983,Brady,Patterson,10,lost boys academy,neverland public schools,nps,nps81983,,2
+21125,Branden,Merrill,12,lucius fox high school,gotham city public schools,gcps,gcps21125,healthcare,1
+90508,Evangeline,Dawson,10,james gordon center for learning,gotham city public schools,gcps,gcps90508,,3
+78401,Jolene,Gonzales,12,lost boys academy,neverland public schools,nps,nps78401,manufacturing,1
+84578,Darius,Middleton,9,captain hook high school,neverland public schools,nps,nps84578,,1
+20516,Ebony,Jarvis,9,lucius fox high school,gotham city public schools,gcps,gcps20516,,2
+60270,Josephine,Barnes,12,captain hook high school,neverland public schools,nps,nps60270,,0
+80390,Shafira,Perry,10,captain hook high school,neverland public schools,nps,nps80390,manufacturing,0
+45906,Dylan,Norris,11,captain hook high school,neverland public schools,nps,nps45906,manufacturing,2
+20253,Whoopi,Combs,11,lucius fox high school,gotham city public schools,gcps,gcps20253,,0
+40922,Rosalyn,Robles,12,lucius fox high school,gotham city public schools,gcps,gcps40922,,0
+13927,Ivan,Wood,9,captain hook high school,neverland public schools,nps,nps13927,manufacturing,1
+29400,Aphrodite,Gonzalez,11,captain hook high school,neverland public schools,nps,nps29400,manufacturing,1
+40381,Olympia,Hester,12,james gordon center for learning,gotham city public schools,gcps,gcps40381,,4
+10202,Liberty,Cunningham,10,lucius fox high school,gotham city public schools,gcps,gcps10202,,1
+35380,Adara,West,10,james gordon center for learning,gotham city public schools,gcps,gcps35380,healthcare,1
+12260,Patricia,Foley,10,lost boys academy,neverland public schools,nps,nps12260,manufacturing,1
+29864,Richard,Hansen,11,lost boys academy,neverland public schools,nps,nps29864,manufacturing,2
+21004,Charles,Floyd,9,lucius fox high school,gotham city public schools,gcps,gcps21004,,6
+18078,Lysandra,Robertson,9,lucius fox high school,gotham city public schools,gcps,gcps18078,,2
+60311,Kaitlin,Savage,9,captain hook high school,neverland public schools,nps,nps60311,manufacturing,3
+11674,Martina,George,10,captain hook high school,neverland public schools,nps,nps11674,,1
+48897,Blaze,Hamilton,10,james gordon center for learning,gotham city public schools,gcps,gcps48897,healthcare,1
+10266,Cherokee,Justice,10,james gordon center for learning,gotham city public schools,gcps,gcps10266,,2
+11997,Dacey,Simpson,9,james gordon center for learning,gotham city public schools,gcps,gcps11997,,4
+14016,Hoyt,Ferguson,9,james gordon center for learning,gotham city public schools,gcps,gcps14016,,1
+75019,Donna,Barker,11,captain hook high school,neverland public schools,nps,nps75019,manufacturing,2
+31885,Jamal,Gillespie,11,lucius fox high school,gotham city public schools,gcps,gcps31885,healthcare,2
+69055,Nathaniel,Calderon,9,lucius fox high school,gotham city public schools,gcps,gcps69055,healthcare,6
+16281,Ralph,Moreno,10,james gordon center for learning,gotham city public schools,gcps,gcps16281,,3
+89497,Alec,Haney,12,james gordon center for learning,gotham city public schools,gcps,gcps89497,,1
+41939,Travis,Burgess,10,lost boys academy,neverland public schools,nps,nps41939,,2
+76097,Kermit,Williamson,9,captain hook high school,neverland public schools,nps,nps76097,manufacturing,1
+23373,Lacota,Talley,12,james gordon center for learning,gotham city public schools,gcps,gcps23373,healthcare,3
+48784,Lydia,Andrews,10,captain hook high school,neverland public schools,nps,nps48784,manufacturing,1
+25140,India,Garza,11,lucius fox high school,gotham city public schools,gcps,gcps25140,,3
+38119,Hop,Watts,10,captain hook high school,neverland public schools,nps,nps38119,manufacturing,0
+99911,Tanisha,Hicks,9,james gordon center for learning,gotham city public schools,gcps,gcps99911,,0
+87914,Zachery,Mckinney,9,lost boys academy,neverland public schools,nps,nps87914,manufacturing,2
+87239,Donna,Villarreal,10,lucius fox high school,gotham city public schools,gcps,gcps87239,healthcare,1
+12284,Geoffrey,Hutchinson,9,james gordon center for learning,gotham city public schools,gcps,gcps12284,,0
+53919,Sonya,Williams,11,captain hook high school,neverland public schools,nps,nps53919,,4
+64904,Mariko,Bauer,12,james gordon center for learning,gotham city public schools,gcps,gcps64904,healthcare,1
+43408,Porter,Macias,9,captain hook high school,neverland public schools,nps,nps43408,,1
+69611,Kylan,Nielsen,9,captain hook high school,neverland public schools,nps,nps69611,,1
+52077,Winter,Carter,11,captain hook high school,neverland public schools,nps,nps52077,manufacturing,2
+65359,Ori,Wooten,12,lost boys academy,neverland public schools,nps,nps65359,,0
+19418,Porter,Blevins,12,lucius fox high school,gotham city public schools,gcps,gcps19418,,1
+15211,Bree,Montoya,10,lucius fox high school,gotham city public schools,gcps,gcps15211,healthcare,4
+80651,Jerry,Ellis,10,james gordon center for learning,gotham city public schools,gcps,gcps80651,healthcare,1
+22521,Mannix,Ray,10,captain hook high school,neverland public schools,nps,nps22521,manufacturing,2
+69272,Christen,Fields,11,captain hook high school,neverland public schools,nps,nps69272,manufacturing,1
+26337,Vielka,Summers,12,james gordon center for learning,gotham city public schools,gcps,gcps26337,healthcare,2
+15436,Emerson,Bryan,9,james gordon center for learning,gotham city public schools,gcps,gcps15436,healthcare,2
+33733,Laurel,Cash,9,lucius fox high school,gotham city public schools,gcps,gcps33733,healthcare,2
+56985,August,Hensley,9,james gordon center for learning,gotham city public schools,gcps,gcps56985,healthcare,1
+63199,Gemma,Savage,12,james gordon center for learning,gotham city public schools,gcps,gcps63199,,1
+84010,Zeus,O'Neill,11,lost boys academy,neverland public schools,nps,nps84010,,1
+28931,Hanae,Booth,12,james gordon center for learning,gotham city public schools,gcps,gcps28931,,1
+52589,Adrienne,Stevens,12,lost boys academy,neverland public schools,nps,nps52589,,0
+60230,Myles,Barker,10,james gordon center for learning,gotham city public schools,gcps,gcps60230,,3
+93889,Aiko,Hicks,10,captain hook high school,neverland public schools,nps,nps93889,,1
+40877,Shafira,Buchanan,11,lucius fox high school,gotham city public schools,gcps,gcps40877,,0
+55449,Quail,Ray,11,lost boys academy,neverland public schools,nps,nps55449,manufacturing,1
+76667,Herrod,Becker,12,james gordon center for learning,gotham city public schools,gcps,gcps76667,,0
+94066,Teegan,Ewing,9,lost boys academy,neverland public schools,nps,nps94066,,3
+35016,Nell,Cooley,9,lucius fox high school,gotham city public schools,gcps,gcps35016,healthcare,5
+80212,Samuel,Payne,10,james gordon center for learning,gotham city public schools,gcps,gcps80212,,1
+74524,Darrel,Merrill,10,lost boys academy,neverland public schools,nps,nps74524,,0
+33373,Noah,Cherry,12,lost boys academy,neverland public schools,nps,nps33373,manufacturing,1
+34330,Olga,Greer,11,lucius fox high school,gotham city public schools,gcps,gcps34330,healthcare,1
+65912,Angela,Rodriguez,12,captain hook high school,neverland public schools,nps,nps65912,manufacturing,1
+69594,Jacqueline,Wolf,12,lucius fox high school,gotham city public schools,gcps,gcps69594,healthcare,2
+99523,Reagan,Long,9,lost boys academy,neverland public schools,nps,nps99523,,1
+21009,Rogan,Blevins,10,captain hook high school,neverland public schools,nps,nps21009,,0
+45844,Cara,Mercado,9,lost boys academy,neverland public schools,nps,nps45844,manufacturing,0
+11047,Jaime,Thomas,12,lucius fox high school,gotham city public schools,gcps,gcps11047,healthcare,2
+26514,Amela,Taylor,10,lost boys academy,neverland public schools,nps,nps26514,,0
+43193,Ainsley,Hayes,10,lucius fox high school,gotham city public schools,gcps,gcps43193,,5
+67659,Hadassah,Harrington,11,lucius fox high school,gotham city public schools,gcps,gcps67659,healthcare,1
+73513,Brady,Conway,9,captain hook high school,neverland public schools,nps,nps73513,manufacturing,4
+39269,Steven,Hicks,12,captain hook high school,neverland public schools,nps,nps39269,manufacturing,2
+66651,Clinton,Riddle,10,captain hook high school,neverland public schools,nps,nps66651,,2
+22381,Walker,Leach,12,james gordon center for learning,gotham city public schools,gcps,gcps22381,,0
+55597,Brenna,Shaw,10,captain hook high school,neverland public schools,nps,nps55597,manufacturing,1
+42699,Carla,Vincent,12,lost boys academy,neverland public schools,nps,nps42699,manufacturing,0
+77017,Chandler,Newman,11,lost boys academy,neverland public schools,nps,nps77017,manufacturing,3
+99239,Malachi,Norton,11,lucius fox high school,gotham city public schools,gcps,gcps99239,healthcare,2
+48947,Justine,Mcdaniel,10,captain hook high school,neverland public schools,nps,nps48947,,2
+24122,Herrod,Hoffman,12,lucius fox high school,gotham city public schools,gcps,gcps24122,,2
+97351,Vera,Russo,12,lost boys academy,neverland public schools,nps,nps97351,,3
+39916,Dawn,Britt,9,lost boys academy,neverland public schools,nps,nps39916,,3
+63626,Ima,Clayton,12,lost boys academy,neverland public schools,nps,nps63626,,1
+52346,Wendy,Bowers,10,captain hook high school,neverland public schools,nps,nps52346,manufacturing,1
+28201,Nero,Kaufman,10,lost boys academy,neverland public schools,nps,nps28201,,0
+80104,Lance,Ruiz,9,lucius fox high school,gotham city public schools,gcps,gcps80104,,0
+52715,Aquila,Dejesus,10,lucius fox high school,gotham city public schools,gcps,gcps52715,healthcare,4
+45605,Ezekiel,Briggs,10,james gordon center for learning,gotham city public schools,gcps,gcps45605,,2
+79921,Wanda,Hebert,12,captain hook high school,neverland public schools,nps,nps79921,manufacturing,1
+69732,Chelsea,Mills,9,lost boys academy,neverland public schools,nps,nps69732,manufacturing,2
+95807,Uriel,Valentine,11,lucius fox high school,gotham city public schools,gcps,gcps95807,healthcare,2
+21580,Christian,Rodriquez,9,lost boys academy,neverland public schools,nps,nps21580,manufacturing,0
+75956,Lester,Yates,9,james gordon center for learning,gotham city public schools,gcps,gcps75956,healthcare,3
+52280,Kylee,Macdonald,12,james gordon center for learning,gotham city public schools,gcps,gcps52280,healthcare,2
+20549,Eliana,Douglas,9,lucius fox high school,gotham city public schools,gcps,gcps20549,healthcare,1
+53569,Omar,Doyle,9,lucius fox high school,gotham city public schools,gcps,gcps53569,healthcare,1
+57547,Melvin,Vinson,9,lost boys academy,neverland public schools,nps,nps57547,manufacturing,4
+20805,India,Kennedy,11,lost boys academy,neverland public schools,nps,nps20805,manufacturing,2
+40828,Alexis,Henry,12,lost boys academy,neverland public schools,nps,nps40828,,0
+70473,Bert,Lowe,9,lost boys academy,neverland public schools,nps,nps70473,manufacturing,0
+77737,Melinda,Vega,12,captain hook high school,neverland public schools,nps,nps77737,,4
+46451,Byron,Riddle,9,lost boys academy,neverland public schools,nps,nps46451,manufacturing,4
+36209,Diana,Nelson,11,captain hook high school,neverland public schools,nps,nps36209,manufacturing,1
+71876,Kelsie,Weaver,12,james gordon center for learning,gotham city public schools,gcps,gcps71876,healthcare,3
+33584,Kamal,Foreman,12,captain hook high school,neverland public schools,nps,nps33584,manufacturing,2
+11644,Vivien,Marsh,10,james gordon center for learning,gotham city public schools,gcps,gcps11644,healthcare,1
+60256,Timon,Gibson,11,captain hook high school,neverland public schools,nps,nps60256,,1
+10673,Harrison,Ortiz,9,lucius fox high school,gotham city public schools,gcps,gcps10673,,1
+40999,Clinton,Hickman,12,lost boys academy,neverland public schools,nps,nps40999,,2
+32350,Renee,Bradley,10,james gordon center for learning,gotham city public schools,gcps,gcps32350,,0
+46463,Allen,Wolfe,11,lost boys academy,neverland public schools,nps,nps46463,manufacturing,3
+61276,Quinn,Kennedy,10,james gordon center for learning,gotham city public schools,gcps,gcps61276,,0
+34855,Perry,Cobb,9,captain hook high school,neverland public schools,nps,nps34855,manufacturing,1
+15966,Alyssa,Gilliam,11,captain hook high school,neverland public schools,nps,nps15966,manufacturing,2
+35286,Courtney,Boyer,9,captain hook high school,neverland public schools,nps,nps35286,,0
+61645,Shelley,Alston,12,james gordon center for learning,gotham city public schools,gcps,gcps61645,healthcare,2
+69077,April,Whitaker,10,james gordon center for learning,gotham city public schools,gcps,gcps69077,,0
+40552,Daria,Mcfadden,9,lucius fox high school,gotham city public schools,gcps,gcps40552,,1
+46627,Cruz,Kramer,10,lost boys academy,neverland public schools,nps,nps46627,manufacturing,1
+79949,Stephen,Rosario,10,lost boys academy,neverland public schools,nps,nps79949,,3
+96453,Lee,Thomas,10,james gordon center for learning,gotham city public schools,gcps,gcps96453,,0
+65808,Bo,Rich,9,james gordon center for learning,gotham city public schools,gcps,gcps65808,healthcare,3
+13590,Jin,Best,12,james gordon center for learning,gotham city public schools,gcps,gcps13590,,1
+26626,Armando,Cooke,10,lost boys academy,neverland public schools,nps,nps26626,manufacturing,2
+82279,Jocelyn,Manning,10,james gordon center for learning,gotham city public schools,gcps,gcps82279,,0
+87888,Summer,Key,10,james gordon center for learning,gotham city public schools,gcps,gcps87888,healthcare,2
+14751,Walker,Poole,12,captain hook high school,neverland public schools,nps,nps14751,,1
+62603,Risa,Fitzpatrick,10,james gordon center for learning,gotham city public schools,gcps,gcps62603,,0
+33529,Zachary,Marquez,11,lost boys academy,neverland public schools,nps,nps33529,,0
+86345,Anne,Douglas,9,captain hook high school,neverland public schools,nps,nps86345,,2
+33352,Jackson,Hull,12,lost boys academy,neverland public schools,nps,nps33352,manufacturing,1
+25421,Xenos,Frederick,9,lost boys academy,neverland public schools,nps,nps25421,,2
+20309,Rooney,Ochoa,10,james gordon center for learning,gotham city public schools,gcps,gcps20309,,0
+52408,Abigail,Foley,12,james gordon center for learning,gotham city public schools,gcps,gcps52408,healthcare,2
+24852,Devin,Dominguez,11,captain hook high school,neverland public schools,nps,nps24852,,2
+52092,Latifah,Duke,11,lucius fox high school,gotham city public schools,gcps,gcps52092,,6
+90412,James,O'Neill,9,lucius fox high school,gotham city public schools,gcps,gcps90412,,4
+26764,Baker,Morris,9,captain hook high school,neverland public schools,nps,nps26764,manufacturing,2
+15868,Germaine,Allison,10,james gordon center for learning,gotham city public schools,gcps,gcps15868,,1
+82923,Phoebe,Hayden,10,lucius fox high school,gotham city public schools,gcps,gcps82923,healthcare,3
+76019,Garrett,Fernandez,9,james gordon center for learning,gotham city public schools,gcps,gcps76019,healthcare,1
+47614,Adena,Fulton,10,lucius fox high school,gotham city public schools,gcps,gcps47614,,2
+28438,Lysandra,Cline,12,james gordon center for learning,gotham city public schools,gcps,gcps28438,,1
+45174,Unity,Owens,9,james gordon center for learning,gotham city public schools,gcps,gcps45174,,0
+87172,Vera,Gates,11,captain hook high school,neverland public schools,nps,nps87172,manufacturing,1
+16208,Tanisha,Weber,12,captain hook high school,neverland public schools,nps,nps16208,,3
+43188,Mannix,Russell,12,james gordon center for learning,gotham city public schools,gcps,gcps43188,healthcare,2
+34868,Calista,Snyder,12,lucius fox high school,gotham city public schools,gcps,gcps34868,,1
+88226,Quinn,Pratt,9,lost boys academy,neverland public schools,nps,nps88226,manufacturing,2
+51174,Prescott,Dean,9,james gordon center for learning,gotham city public schools,gcps,gcps51174,healthcare,1
+57916,Elizabeth,Gamble,12,lost boys academy,neverland public schools,nps,nps57916,,1
+46140,Connor,Lane,12,captain hook high school,neverland public schools,nps,nps46140,manufacturing,3
+26733,Jenette,Sellers,9,captain hook high school,neverland public schools,nps,nps26733,manufacturing,1
+90014,Demetrius,Miller,9,lucius fox high school,gotham city public schools,gcps,gcps90014,healthcare,3
+56623,Tashya,Newman,10,captain hook high school,neverland public schools,nps,nps56623,manufacturing,3
+95784,Lacey,Romero,10,james gordon center for learning,gotham city public schools,gcps,gcps95784,,1
+84530,Coby,Pitts,12,james gordon center for learning,gotham city public schools,gcps,gcps84530,,2
+96598,Ivan,Petersen,11,lucius fox high school,gotham city public schools,gcps,gcps96598,,1
+16614,Mariam,Maynard,12,captain hook high school,neverland public schools,nps,nps16614,manufacturing,1
+42921,Helen,Foster,11,captain hook high school,neverland public schools,nps,nps42921,,1
+75328,Jessamine,Lawson,12,lucius fox high school,gotham city public schools,gcps,gcps75328,,0
+24515,Melissa,Haney,11,lost boys academy,neverland public schools,nps,nps24515,manufacturing,2
+25958,Shafira,Walls,12,lost boys academy,neverland public schools,nps,nps25958,manufacturing,2
+49458,Amethyst,Richard,10,captain hook high school,neverland public schools,nps,nps49458,,0
+52305,Isaac,Beasley,10,lost boys academy,neverland public schools,nps,nps52305,,2
+98319,Thane,Copeland,11,lucius fox high school,gotham city public schools,gcps,gcps98319,healthcare,2
+72461,Lydia,Carr,11,lucius fox high school,gotham city public schools,gcps,gcps72461,,4
+63781,Emery,Jensen,12,captain hook high school,neverland public schools,nps,nps63781,manufacturing,1
+62321,Macaulay,Dodson,12,captain hook high school,neverland public schools,nps,nps62321,manufacturing,3
+80568,Halee,Barker,10,lucius fox high school,gotham city public schools,gcps,gcps80568,,1
+90986,Merritt,Vance,10,captain hook high school,neverland public schools,nps,nps90986,,0
+76001,Brennan,Wooten,12,james gordon center for learning,gotham city public schools,gcps,gcps76001,healthcare,1
+23211,Emma,Bean,10,james gordon center for learning,gotham city public schools,gcps,gcps23211,healthcare,3
+49932,Colorado,Deleon,10,lucius fox high school,gotham city public schools,gcps,gcps49932,healthcare,1
+17080,Kiayada,Graham,12,lost boys academy,neverland public schools,nps,nps17080,manufacturing,1
+45204,Nita,Delacruz,9,james gordon center for learning,gotham city public schools,gcps,gcps45204,,0
+77670,Jemima,Campbell,11,lost boys academy,neverland public schools,nps,nps77670,manufacturing,1
+69089,Wayne,Finley,10,lost boys academy,neverland public schools,nps,nps69089,,3
+53743,Calvin,Head,12,lucius fox high school,gotham city public schools,gcps,gcps53743,,0
+90390,Fritz,Fulton,10,james gordon center for learning,gotham city public schools,gcps,gcps90390,,0
+72128,Skyler,Castaneda,9,lost boys academy,neverland public schools,nps,nps72128,,2
+93784,Dean,Wilder,12,captain hook high school,neverland public schools,nps,nps93784,,0
+40154,Athena,Waters,9,james gordon center for learning,gotham city public schools,gcps,gcps40154,healthcare,3
+36761,Maia,Eaton,12,captain hook high school,neverland public schools,nps,nps36761,manufacturing,2
+17818,Gail,Bradford,10,lucius fox high school,gotham city public schools,gcps,gcps17818,,3
+56114,Kiona,Langley,10,lucius fox high school,gotham city public schools,gcps,gcps56114,,2
+73725,Kieran,Nunez,10,james gordon center for learning,gotham city public schools,gcps,gcps73725,,2
+70295,Daniel,Fernandez,9,lost boys academy,neverland public schools,nps,nps70295,,1
+36386,Doris,Horton,11,captain hook high school,neverland public schools,nps,nps36386,,6
+97887,Angelica,Day,9,captain hook high school,neverland public schools,nps,nps97887,manufacturing,3
+85709,Brenda,Chapman,9,lucius fox high school,gotham city public schools,gcps,gcps85709,healthcare,1
+36824,Colleen,Nixon,9,lost boys academy,neverland public schools,nps,nps36824,,3
+83531,Shelby,Sheppard,10,james gordon center for learning,gotham city public schools,gcps,gcps83531,healthcare,1
+86894,Colette,Hoffman,9,captain hook high school,neverland public schools,nps,nps86894,,4
+49591,Scarlet,Murphy,12,lost boys academy,neverland public schools,nps,nps49591,manufacturing,2
+89744,Lars,Schultz,10,captain hook high school,neverland public schools,nps,nps89744,,1
+16089,Harrison,Randolph,9,james gordon center for learning,gotham city public schools,gcps,gcps16089,healthcare,1
+91640,Ima,Bush,12,lucius fox high school,gotham city public schools,gcps,gcps91640,healthcare,3
+92682,Francis,Payne,10,james gordon center for learning,gotham city public schools,gcps,gcps92682,,3
+16766,Stone,Phelps,10,lost boys academy,neverland public schools,nps,nps16766,manufacturing,1
+29395,Cyrus,Fields,10,james gordon center for learning,gotham city public schools,gcps,gcps29395,healthcare,2
+58114,Kelly,Barr,12,james gordon center for learning,gotham city public schools,gcps,gcps58114,healthcare,1
+64066,Glenna,Miranda,9,lost boys academy,neverland public schools,nps,nps64066,manufacturing,0
+69267,Omar,Burch,9,captain hook high school,neverland public schools,nps,nps69267,manufacturing,2
+66535,Whilemina,Church,11,captain hook high school,neverland public schools,nps,nps66535,manufacturing,1
+23425,Hiram,Doyle,11,lost boys academy,neverland public schools,nps,nps23425,,1
+93352,Harper,Holloway,10,james gordon center for learning,gotham city public schools,gcps,gcps93352,healthcare,1
+42734,Maris,Velazquez,9,lost boys academy,neverland public schools,nps,nps42734,,2
+70983,Ginger,Cherry,9,lucius fox high school,gotham city public schools,gcps,gcps70983,,0
+83877,Jackson,Barton,9,captain hook high school,neverland public schools,nps,nps83877,manufacturing,1
+28596,Carl,Bryant,9,captain hook high school,neverland public schools,nps,nps28596,manufacturing,3
+71193,Forrest,Gibson,12,james gordon center for learning,gotham city public schools,gcps,gcps71193,,2
+74837,Clinton,Roberson,11,lucius fox high school,gotham city public schools,gcps,gcps74837,,3
+93481,Beck,Best,10,james gordon center for learning,gotham city public schools,gcps,gcps93481,,3
+84264,Rylee,Weeks,12,captain hook high school,neverland public schools,nps,nps84264,manufacturing,1
+37060,Isabelle,Glass,10,captain hook high school,neverland public schools,nps,nps37060,,3
+29660,Vivien,Pena,11,lost boys academy,neverland public schools,nps,nps29660,,2
+58527,Ignacia,Vinson,12,lucius fox high school,gotham city public schools,gcps,gcps58527,,1
+63806,Ora,Knox,9,james gordon center for learning,gotham city public schools,gcps,gcps63806,healthcare,1
+88261,Patience,Todd,12,lost boys academy,neverland public schools,nps,nps88261,,0
+97934,Kylie,Cote,12,captain hook high school,neverland public schools,nps,nps97934,manufacturing,2
+57637,Kenyon,Vaughn,9,james gordon center for learning,gotham city public schools,gcps,gcps57637,,2
+97745,Dieter,Keller,10,lucius fox high school,gotham city public schools,gcps,gcps97745,healthcare,4
+33189,Brittany,Sears,10,lucius fox high school,gotham city public schools,gcps,gcps33189,,0
+17503,Valentine,Perkins,10,james gordon center for learning,gotham city public schools,gcps,gcps17503,,0
+27394,Dillon,Holland,12,lucius fox high school,gotham city public schools,gcps,gcps27394,healthcare,1
+78904,Arthur,Keller,12,james gordon center for learning,gotham city public schools,gcps,gcps78904,healthcare,2
+51465,Chelsea,Sykes,10,lucius fox high school,gotham city public schools,gcps,gcps51465,healthcare,4
+66721,Axel,Oliver,10,captain hook high school,neverland public schools,nps,nps66721,,1
+19174,Fuller,Sandoval,9,lost boys academy,neverland public schools,nps,nps19174,,0
+61904,Kitra,Mack,10,lucius fox high school,gotham city public schools,gcps,gcps61904,healthcare,1
+67292,Ezekiel,Rutledge,10,captain hook high school,neverland public schools,nps,nps67292,manufacturing,3
+62278,Galena,Riley,12,lost boys academy,neverland public schools,nps,nps62278,,2
+10987,Dominic,Hinton,10,captain hook high school,neverland public schools,nps,nps10987,,2
+13542,Reece,Mccoy,10,captain hook high school,neverland public schools,nps,nps13542,,2
+18308,Louis,Jimenez,9,lucius fox high school,gotham city public schools,gcps,gcps18308,healthcare,2
+23462,Macy,Monroe,10,james gordon center for learning,gotham city public schools,gcps,gcps23462,healthcare,5
+10752,Aimee,Joyce,10,captain hook high school,neverland public schools,nps,nps10752,manufacturing,3
+34010,Adria,Bridges,10,james gordon center for learning,gotham city public schools,gcps,gcps34010,healthcare,3
+42443,Hedley,Rosales,11,lost boys academy,neverland public schools,nps,nps42443,manufacturing,4
+88524,Madaline,Frost,9,lost boys academy,neverland public schools,nps,nps88524,manufacturing,2
+99497,Cullen,Collins,11,lucius fox high school,gotham city public schools,gcps,gcps99497,healthcare,6
+82820,Oscar,Summers,12,lost boys academy,neverland public schools,nps,nps82820,,0
+88508,Rhona,Peterson,11,lost boys academy,neverland public schools,nps,nps88508,manufacturing,1
+54830,Zia,William,9,lost boys academy,neverland public schools,nps,nps54830,manufacturing,1
+54042,Blake,Conley,10,james gordon center for learning,gotham city public schools,gcps,gcps54042,,0
+48661,Aimee,Cummings,12,captain hook high school,neverland public schools,nps,nps48661,,0
+39701,Eve,Blair,10,lucius fox high school,gotham city public schools,gcps,gcps39701,healthcare,1
+33323,Fredericka,Valenzuela,11,captain hook high school,neverland public schools,nps,nps33323,manufacturing,2
+28052,Carter,Byers,11,lost boys academy,neverland public schools,nps,nps28052,manufacturing,3
+10772,Illana,Garza,9,lost boys academy,neverland public schools,nps,nps10772,manufacturing,4
+78504,Serena,Forbes,10,lost boys academy,neverland public schools,nps,nps78504,manufacturing,1
+69673,Guinevere,Little,10,lucius fox high school,gotham city public schools,gcps,gcps69673,healthcare,3
+51062,Bevis,Waters,12,captain hook high school,neverland public schools,nps,nps51062,manufacturing,2
+76712,Lucy,Chase,10,captain hook high school,neverland public schools,nps,nps76712,,0
+42544,Philip,Delaney,12,captain hook high school,neverland public schools,nps,nps42544,manufacturing,3
+17882,Lee,Ramos,9,lost boys academy,neverland public schools,nps,nps17882,manufacturing,3
+18375,Vivian,Wolfe,10,james gordon center for learning,gotham city public schools,gcps,gcps18375,healthcare,3
+73636,Derek,West,12,lucius fox high school,gotham city public schools,gcps,gcps73636,,3
+31126,George,Randolph,11,lucius fox high school,gotham city public schools,gcps,gcps31126,,3
+99672,Tatiana,Kent,9,captain hook high school,neverland public schools,nps,nps99672,manufacturing,2
+28777,Lysandra,Mcpherson,9,james gordon center for learning,gotham city public schools,gcps,gcps28777,,5
+13791,Axel,Young,11,lost boys academy,neverland public schools,nps,nps13791,manufacturing,2
+83584,Kaye,Irwin,11,captain hook high school,neverland public schools,nps,nps83584,manufacturing,2
+32521,Penelope,Rasmussen,9,captain hook high school,neverland public schools,nps,nps32521,,0
+24143,Micah,Snider,10,captain hook high school,neverland public schools,nps,nps24143,manufacturing,2
+77341,Orla,Jimenez,9,lucius fox high school,gotham city public schools,gcps,gcps77341,,2
+96662,Donovan,Luna,10,lucius fox high school,gotham city public schools,gcps,gcps96662,healthcare,3
+91078,Willow,Workman,10,captain hook high school,neverland public schools,nps,nps91078,manufacturing,2
+64553,Zachery,Wells,9,lucius fox high school,gotham city public schools,gcps,gcps64553,,0
+18529,Chancellor,Booth,10,captain hook high school,neverland public schools,nps,nps18529,manufacturing,3
+60314,Meghan,Allison,9,lost boys academy,neverland public schools,nps,nps60314,manufacturing,2
+26580,Myles,Reid,9,lucius fox high school,gotham city public schools,gcps,gcps26580,healthcare,2
+92125,Stacey,Wright,12,lucius fox high school,gotham city public schools,gcps,gcps92125,,0
+43716,Sade,Snyder,12,james gordon center for learning,gotham city public schools,gcps,gcps43716,healthcare,1
+51040,Melinda,Branch,11,lost boys academy,neverland public schools,nps,nps51040,,1
+10468,Ulla,Burch,10,james gordon center for learning,gotham city public schools,gcps,gcps10468,healthcare,4
+82080,Jaden,Hyde,11,captain hook high school,neverland public schools,nps,nps82080,manufacturing,3
+11302,Debra,Wilkerson,10,james gordon center for learning,gotham city public schools,gcps,gcps11302,healthcare,2
+82025,Noelle,Albert,11,captain hook high school,neverland public schools,nps,nps82025,manufacturing,2
+29808,Thane,Patterson,10,james gordon center for learning,gotham city public schools,gcps,gcps29808,healthcare,3
+64861,Oren,Kent,12,lost boys academy,neverland public schools,nps,nps64861,,3
+72062,Mechelle,Michael,10,james gordon center for learning,gotham city public schools,gcps,gcps72062,healthcare,1
+60958,Piper,Wallace,9,captain hook high school,neverland public schools,nps,nps60958,,3
+53247,Priscilla,Elliott,12,captain hook high school,neverland public schools,nps,nps53247,manufacturing,1
+17760,Colleen,Velasquez,9,captain hook high school,neverland public schools,nps,nps17760,,0
+43032,Tucker,Schroeder,10,captain hook high school,neverland public schools,nps,nps43032,,4
+71410,Brittany,Trevino,10,lost boys academy,neverland public schools,nps,nps71410,,5
+55337,Russell,Tyler,11,lucius fox high school,gotham city public schools,gcps,gcps55337,healthcare,6
+54460,Audrey,Santana,10,lucius fox high school,gotham city public schools,gcps,gcps54460,,2
+38523,Norman,Gregory,11,lost boys academy,neverland public schools,nps,nps38523,,1
+73192,Salvador,Barrett,11,captain hook high school,neverland public schools,nps,nps73192,,3
+51260,Georgia,Howe,9,james gordon center for learning,gotham city public schools,gcps,gcps51260,healthcare,2
+21302,Carol,Lamb,9,lost boys academy,neverland public schools,nps,nps21302,,3
+19398,Helen,Baker,9,james gordon center for learning,gotham city public schools,gcps,gcps19398,,1
+68766,Whilemina,Quinn,10,captain hook high school,neverland public schools,nps,nps68766,manufacturing,1
+27254,Violet,Pittman,10,lucius fox high school,gotham city public schools,gcps,gcps27254,,4
+80305,Kylynn,Thomas,10,james gordon center for learning,gotham city public schools,gcps,gcps80305,healthcare,3
+71443,Bert,Johns,9,lost boys academy,neverland public schools,nps,nps71443,,0
+74859,Carol,Neal,11,lost boys academy,neverland public schools,nps,nps74859,manufacturing,2
+92357,Sydney,Cain,12,lost boys academy,neverland public schools,nps,nps92357,manufacturing,1
+65663,Clare,Jenkins,10,james gordon center for learning,gotham city public schools,gcps,gcps65663,,1
+30342,Amir,Fowler,11,lost boys academy,neverland public schools,nps,nps30342,manufacturing,2
+28807,Shelby,Garcia,12,captain hook high school,neverland public schools,nps,nps28807,,2
+95669,Benjamin,Vang,9,captain hook high school,neverland public schools,nps,nps95669,manufacturing,7
+65424,Allen,Morales,9,lost boys academy,neverland public schools,nps,nps65424,,0
+15736,Shelly,Greene,10,lost boys academy,neverland public schools,nps,nps15736,manufacturing,1
+40149,Xyla,Hodge,12,captain hook high school,neverland public schools,nps,nps40149,,0
+96295,Quon,Spears,12,lost boys academy,neverland public schools,nps,nps96295,manufacturing,1
+79775,Clark,Stewart,9,james gordon center for learning,gotham city public schools,gcps,gcps79775,,0
+50726,Lyle,Bell,9,captain hook high school,neverland public schools,nps,nps50726,manufacturing,2
+59697,Patricia,Chambers,10,lucius fox high school,gotham city public schools,gcps,gcps59697,healthcare,1
+49672,Mira,Workman,11,lucius fox high school,gotham city public schools,gcps,gcps49672,healthcare,4
+99547,Kylie,Rasmussen,9,lost boys academy,neverland public schools,nps,nps99547,,0
+43690,Kylynn,Blankenship,10,lucius fox high school,gotham city public schools,gcps,gcps43690,,2
+24931,Rahim,Waller,10,lucius fox high school,gotham city public schools,gcps,gcps24931,healthcare,2
+96078,Erin,Hogan,10,james gordon center for learning,gotham city public schools,gcps,gcps96078,,2
+33409,Maryam,Gomez,9,james gordon center for learning,gotham city public schools,gcps,gcps33409,healthcare,0
+23391,Olga,Tyler,10,james gordon center for learning,gotham city public schools,gcps,gcps23391,,1
+12817,Brian,Spears,11,captain hook high school,neverland public schools,nps,nps12817,,2
+34260,Dustin,Robles,12,captain hook high school,neverland public schools,nps,nps34260,,1
+57468,Shannon,Salinas,12,james gordon center for learning,gotham city public schools,gcps,gcps57468,,0
+21942,Alexander,Jordan,9,captain hook high school,neverland public schools,nps,nps21942,manufacturing,1
+24130,Ira,Powell,9,captain hook high school,neverland public schools,nps,nps24130,,1
+54332,Xavier,Riddle,9,lost boys academy,neverland public schools,nps,nps54332,,4
+83901,Karen,Blackwell,12,lucius fox high school,gotham city public schools,gcps,gcps83901,healthcare,3
+81443,Melvin,Gross,9,captain hook high school,neverland public schools,nps,nps81443,,3
+42872,Abraham,Castillo,10,lucius fox high school,gotham city public schools,gcps,gcps42872,,2
+44262,Gavin,Holcomb,10,captain hook high school,neverland public schools,nps,nps44262,,2
+35129,Colleen,West,11,lucius fox high school,gotham city public schools,gcps,gcps35129,,1
+14651,Lev,Goff,11,captain hook high school,neverland public schools,nps,nps14651,manufacturing,3
+47513,Howard,Butler,12,lost boys academy,neverland public schools,nps,nps47513,,2
+32299,Alyssa,Mills,9,lost boys academy,neverland public schools,nps,nps32299,,5
+83154,Allen,Stout,12,lucius fox high school,gotham city public schools,gcps,gcps83154,healthcare,3
+35662,Jacob,Ray,9,captain hook high school,neverland public schools,nps,nps35662,,1
+87106,Wayne,Garza,12,james gordon center for learning,gotham city public schools,gcps,gcps87106,,4
+10045,Tara,Bray,9,lost boys academy,neverland public schools,nps,nps10045,manufacturing,3
+35991,Germaine,Hartman,12,captain hook high school,neverland public schools,nps,nps35991,manufacturing,2
+86460,Kirby,Tran,9,captain hook high school,neverland public schools,nps,nps86460,,0
+69193,Demetrius,Gonzales,10,lost boys academy,neverland public schools,nps,nps69193,,6
+56925,Doris,Livingston,12,captain hook high school,neverland public schools,nps,nps56925,,2
+47763,Dale,Bailey,10,lucius fox high school,gotham city public schools,gcps,gcps47763,,2
+71256,Salvador,Hunt,11,captain hook high school,neverland public schools,nps,nps71256,,2
+81410,Tanner,Heath,12,captain hook high school,neverland public schools,nps,nps81410,manufacturing,3
+26799,Sara,Haney,9,lost boys academy,neverland public schools,nps,nps26799,manufacturing,1
+85980,Carolyn,Walton,12,lucius fox high school,gotham city public schools,gcps,gcps85980,,3
+44762,Adele,Washington,9,captain hook high school,neverland public schools,nps,nps44762,,3
+71137,Trevor,Henry,9,lost boys academy,neverland public schools,nps,nps71137,manufacturing,4
+53705,Conan,Dillard,11,lost boys academy,neverland public schools,nps,nps53705,manufacturing,5
+63026,Glenna,Baker,10,james gordon center for learning,gotham city public schools,gcps,gcps63026,healthcare,0
+10363,Isaac,Griffin,10,lucius fox high school,gotham city public schools,gcps,gcps10363,healthcare,4
+51034,Elton,Richards,12,james gordon center for learning,gotham city public schools,gcps,gcps51034,,2
+28570,Bertha,Mccall,9,lost boys academy,neverland public schools,nps,nps28570,,1
+22863,Harlan,Hanson,9,lucius fox high school,gotham city public schools,gcps,gcps22863,,4
+33193,Gisela,Gordon,12,lost boys academy,neverland public schools,nps,nps33193,manufacturing,3
+16965,Jescie,Phillips,10,james gordon center for learning,gotham city public schools,gcps,gcps16965,,0
+79618,Priscilla,Austin,11,lucius fox high school,gotham city public schools,gcps,gcps79618,,0
+36315,Hannah,Oneil,10,james gordon center for learning,gotham city public schools,gcps,gcps36315,,0
+69388,Walker,Winters,9,captain hook high school,neverland public schools,nps,nps69388,manufacturing,1
+74641,Stephanie,Winters,10,james gordon center for learning,gotham city public schools,gcps,gcps74641,,1
+85435,Brenda,Mueller,12,lucius fox high school,gotham city public schools,gcps,gcps85435,healthcare,0
+33013,Clare,Berry,9,lost boys academy,neverland public schools,nps,nps33013,manufacturing,2
+28835,Hedy,Rice,9,lucius fox high school,gotham city public schools,gcps,gcps28835,healthcare,4
+37481,Karen,Simon,12,james gordon center for learning,gotham city public schools,gcps,gcps37481,healthcare,3
+35945,Amaya,Williamson,10,captain hook high school,neverland public schools,nps,nps35945,,3
+59172,Gil,Riddle,12,lucius fox high school,gotham city public schools,gcps,gcps59172,,1
+52174,Amelia,Dorsey,11,james gordon center for learning,gotham city public schools,gcps,gcps52174,healthcare,2
+34585,Todd,Hood,12,captain hook high school,neverland public schools,nps,nps34585,manufacturing,1
+50213,Piper,Maddox,11,james gordon center for learning,gotham city public schools,gcps,gcps50213,,0
+74594,Unity,Harrell,10,captain hook high school,neverland public schools,nps,nps74594,manufacturing,1
+48673,Hedda,Norman,12,lucius fox high school,gotham city public schools,gcps,gcps48673,,0
+59948,Erich,Mendez,11,lucius fox high school,gotham city public schools,gcps,gcps59948,healthcare,2
+10932,Ishmael,Russo,9,lost boys academy,neverland public schools,nps,nps10932,,4
+43130,Colin,Farmer,12,lucius fox high school,gotham city public schools,gcps,gcps43130,,3
+34370,Nelle,Allison,10,lucius fox high school,gotham city public schools,gcps,gcps34370,,4
+11294,Jermaine,Vasquez,9,captain hook high school,neverland public schools,nps,nps11294,manufacturing,3
+73975,Hayes,Stanley,9,lucius fox high school,gotham city public schools,gcps,gcps73975,healthcare,2
+90142,Darius,Kent,12,james gordon center for learning,gotham city public schools,gcps,gcps90142,healthcare,2
+77592,Myles,Beach,12,lost boys academy,neverland public schools,nps,nps77592,manufacturing,0
+37569,Harlan,Jensen,11,james gordon center for learning,gotham city public schools,gcps,gcps37569,,3
+45761,Brandon,Fuller,11,lost boys academy,neverland public schools,nps,nps45761,manufacturing,0
+49330,Rose,Crosby,12,captain hook high school,neverland public schools,nps,nps49330,manufacturing,4
+60574,Lee,Bowers,10,lost boys academy,neverland public schools,nps,nps60574,,0
+93040,Stone,Morgan,10,captain hook high school,neverland public schools,nps,nps93040,,0
+80822,Brittany,Crawford,12,james gordon center for learning,gotham city public schools,gcps,gcps80822,healthcare,2
+42012,Kaitlin,Osborne,9,captain hook high school,neverland public schools,nps,nps42012,,0
+65973,Zane,Cantu,11,lost boys academy,neverland public schools,nps,nps65973,,0
+88187,Kelsey,Jenkins,12,captain hook high school,neverland public schools,nps,nps88187,,2
+57747,Kelsie,Roy,9,lost boys academy,neverland public schools,nps,nps57747,,2
+14084,Kylie,Shaffer,12,lost boys academy,neverland public schools,nps,nps14084,,5
+46228,Caldwell,Moore,10,lost boys academy,neverland public schools,nps,nps46228,,0
+51102,Abel,Mcfarland,10,lucius fox high school,gotham city public schools,gcps,gcps51102,healthcare,1
+92381,Arden,Mcmahon,9,james gordon center for learning,gotham city public schools,gcps,gcps92381,,2
+79473,Sonya,Shepherd,11,lost boys academy,neverland public schools,nps,nps79473,,4
+91275,Amity,Richard,12,james gordon center for learning,gotham city public schools,gcps,gcps91275,,3
+22402,Ashton,George,12,captain hook high school,neverland public schools,nps,nps22402,,3
+97177,Remedios,Maldonado,11,james gordon center for learning,gotham city public schools,gcps,gcps97177,healthcare,3
+92110,Gillian,Mccoy,11,lost boys academy,neverland public schools,nps,nps92110,,0
+68551,Marah,Leach,12,lost boys academy,neverland public schools,nps,nps68551,manufacturing,2
+48846,Sean,Mills,9,james gordon center for learning,gotham city public schools,gcps,gcps48846,healthcare,2
+70474,Preston,Thompson,11,lucius fox high school,gotham city public schools,gcps,gcps70474,healthcare,3
+69965,Tara,George,11,lost boys academy,neverland public schools,nps,nps69965,,3
+49383,Jaden,Frank,9,lost boys academy,neverland public schools,nps,nps49383,,0
+80983,Sandra,Beach,12,james gordon center for learning,gotham city public schools,gcps,gcps80983,,1
+18051,Chaim,Cortez,9,james gordon center for learning,gotham city public schools,gcps,gcps18051,healthcare,1
+81400,Cameron,Parker,9,lucius fox high school,gotham city public schools,gcps,gcps81400,,4
+38333,Tobias,Atkinson,10,lost boys academy,neverland public schools,nps,nps38333,manufacturing,1
+43316,Daquan,Hester,9,lost boys academy,neverland public schools,nps,nps43316,,0
+83632,Hakeem,House,9,lost boys academy,neverland public schools,nps,nps83632,,0
+87498,Allegra,Romero,9,captain hook high school,neverland public schools,nps,nps87498,,2
+13256,Leila,Hancock,9,james gordon center for learning,gotham city public schools,gcps,gcps13256,,0
+79381,Willa,Bennett,11,lost boys academy,neverland public schools,nps,nps79381,manufacturing,1
+58573,Fallon,Blevins,9,lucius fox high school,gotham city public schools,gcps,gcps58573,,4
+15541,Lunea,Bell,11,lost boys academy,neverland public schools,nps,nps15541,,0
+92574,Salvador,Cash,9,captain hook high school,neverland public schools,nps,nps92574,manufacturing,5
+60424,Xaviera,Reid,9,james gordon center for learning,gotham city public schools,gcps,gcps60424,,1
+99370,Castor,Baxter,9,lucius fox high school,gotham city public schools,gcps,gcps99370,healthcare,3
+36657,Lisandra,Santana,10,lost boys academy,neverland public schools,nps,nps36657,,2
+36692,Mariko,Marks,10,lucius fox high school,gotham city public schools,gcps,gcps36692,healthcare,6
+16604,Ivor,Bradshaw,11,captain hook high school,neverland public schools,nps,nps16604,manufacturing,4
+56534,Halla,Gay,11,james gordon center for learning,gotham city public schools,gcps,gcps56534,healthcare,5
+40464,Liberty,Moreno,11,lost boys academy,neverland public schools,nps,nps40464,,1
+59140,Daryl,Randolph,11,lost boys academy,neverland public schools,nps,nps59140,,0
+92370,Cameron,Montgomery,12,lucius fox high school,gotham city public schools,gcps,gcps92370,healthcare,6
+99234,Igor,Savage,10,lost boys academy,neverland public schools,nps,nps99234,manufacturing,1
+60511,Tamekah,Gill,11,james gordon center for learning,gotham city public schools,gcps,gcps60511,,3
+25533,Kaitlin,Huffman,10,lucius fox high school,gotham city public schools,gcps,gcps25533,,2
+54138,Shafira,Richards,10,captain hook high school,neverland public schools,nps,nps54138,manufacturing,1
+64375,Caleb,Levine,12,captain hook high school,neverland public schools,nps,nps64375,manufacturing,1
+79559,Blaze,Saunders,11,james gordon center for learning,gotham city public schools,gcps,gcps79559,healthcare,0
+79748,Rachel,Mckay,10,lost boys academy,neverland public schools,nps,nps79748,manufacturing,1
+37180,Wesley,Alvarado,10,lucius fox high school,gotham city public schools,gcps,gcps37180,healthcare,1
+91122,Allistair,Stark,11,james gordon center for learning,gotham city public schools,gcps,gcps91122,,0
+94905,Beatrice,Cunningham,12,lost boys academy,neverland public schools,nps,nps94905,manufacturing,1
+65858,Branden,Yang,12,james gordon center for learning,gotham city public schools,gcps,gcps65858,,3
+28387,Fritz,Padilla,11,lost boys academy,neverland public schools,nps,nps28387,,0
+24079,Athena,Rice,11,captain hook high school,neverland public schools,nps,nps24079,manufacturing,3
+47988,Octavia,Ewing,12,captain hook high school,neverland public schools,nps,nps47988,,2
+46406,Lael,Kane,11,lucius fox high school,gotham city public schools,gcps,gcps46406,,1
+56143,Gay,King,12,captain hook high school,neverland public schools,nps,nps56143,manufacturing,0
+96797,Clinton,Robles,11,lost boys academy,neverland public schools,nps,nps96797,,4
+57562,Lael,Velasquez,12,james gordon center for learning,gotham city public schools,gcps,gcps57562,healthcare,2
+86774,Violet,David,9,captain hook high school,neverland public schools,nps,nps86774,manufacturing,2
+89847,Kalia,Huffman,11,james gordon center for learning,gotham city public schools,gcps,gcps89847,healthcare,2
+31420,Jonas,Cote,9,lost boys academy,neverland public schools,nps,nps31420,,2
+13410,Ferris,Fowler,11,lost boys academy,neverland public schools,nps,nps13410,,1
+78653,Erich,Snider,12,captain hook high school,neverland public schools,nps,nps78653,,0
+99266,Keegan,Gallegos,10,lost boys academy,neverland public schools,nps,nps99266,manufacturing,1
+75052,Knox,Whitney,9,captain hook high school,neverland public schools,nps,nps75052,manufacturing,5
+80660,Tanek,Abbott,9,lost boys academy,neverland public schools,nps,nps80660,,0
+72199,Silas,Mcintosh,9,lucius fox high school,gotham city public schools,gcps,gcps72199,healthcare,1
+63240,Hermione,Pena,10,lost boys academy,neverland public schools,nps,nps63240,manufacturing,1
+96416,Fitzgerald,Finley,11,james gordon center for learning,gotham city public schools,gcps,gcps96416,healthcare,2
+36151,Katell,Price,11,james gordon center for learning,gotham city public schools,gcps,gcps36151,,1
+75116,Dean,Livingston,10,lost boys academy,neverland public schools,nps,nps75116,,1
+71217,Maile,Herring,11,captain hook high school,neverland public schools,nps,nps71217,manufacturing,1
+77856,Chiquita,Benton,12,lucius fox high school,gotham city public schools,gcps,gcps77856,healthcare,4
+50976,Tyler,Phelps,11,captain hook high school,neverland public schools,nps,nps50976,,1
+36820,Kyle,Joseph,12,lucius fox high school,gotham city public schools,gcps,gcps36820,healthcare,7
+51785,Jeremy,Peck,9,lucius fox high school,gotham city public schools,gcps,gcps51785,,2
+13556,Reese,Carrillo,11,lost boys academy,neverland public schools,nps,nps13556,,0
+94957,Kyra,Durham,9,lucius fox high school,gotham city public schools,gcps,gcps94957,,2
+15501,Jarrod,Valenzuela,9,lost boys academy,neverland public schools,nps,nps15501,manufacturing,2
+57507,Hayfa,Pruitt,12,james gordon center for learning,gotham city public schools,gcps,gcps57507,healthcare,3
+60418,Irma,Forbes,12,captain hook high school,neverland public schools,nps,nps60418,manufacturing,3
+62353,Julie,Roman,9,james gordon center for learning,gotham city public schools,gcps,gcps62353,healthcare,2
+92963,Burton,Leon,12,captain hook high school,neverland public schools,nps,nps92963,manufacturing,3
+22205,Christian,Allison,9,captain hook high school,neverland public schools,nps,nps22205,manufacturing,5
+25195,Cally,Strong,11,james gordon center for learning,gotham city public schools,gcps,gcps25195,,2
+76583,Sigourney,Bentley,9,lost boys academy,neverland public schools,nps,nps76583,manufacturing,4
+57392,Linus,Kim,9,lucius fox high school,gotham city public schools,gcps,gcps57392,,2
+92861,Ulric,Glover,11,lucius fox high school,gotham city public schools,gcps,gcps92861,healthcare,4
+97858,Phyllis,Mcclain,10,lost boys academy,neverland public schools,nps,nps97858,manufacturing,1
+52122,Bruno,Carrillo,9,lucius fox high school,gotham city public schools,gcps,gcps52122,,4
+41681,Ivan,Lambert,11,lucius fox high school,gotham city public schools,gcps,gcps41681,,4
+28821,Eliana,Garza,12,lost boys academy,neverland public schools,nps,nps28821,,0
+43915,Allen,Clayton,11,james gordon center for learning,gotham city public schools,gcps,gcps43915,,0
+78334,Lewis,Harper,10,captain hook high school,neverland public schools,nps,nps78334,manufacturing,3
+28200,Cyrus,Cunningham,11,captain hook high school,neverland public schools,nps,nps28200,manufacturing,1
+35679,Prescott,Whitley,12,lucius fox high school,gotham city public schools,gcps,gcps35679,healthcare,4
+42863,Rowan,Nieves,12,lucius fox high school,gotham city public schools,gcps,gcps42863,,6
+97843,Davis,Garza,11,lucius fox high school,gotham city public schools,gcps,gcps97843,,1
+76846,Solomon,Coleman,11,lucius fox high school,gotham city public schools,gcps,gcps76846,healthcare,3
+57220,Keaton,Dennis,12,captain hook high school,neverland public schools,nps,nps57220,,0
+71450,Karen,Calderon,9,james gordon center for learning,gotham city public schools,gcps,gcps71450,healthcare,2
+20059,Zia,Sandoval,9,james gordon center for learning,gotham city public schools,gcps,gcps20059,,3
+30277,Cade,Morin,11,lucius fox high school,gotham city public schools,gcps,gcps30277,healthcare,2
+57677,Cathleen,Vincent,9,lost boys academy,neverland public schools,nps,nps57677,,2
+35434,Fleur,Barron,11,lost boys academy,neverland public schools,nps,nps35434,,0
+97256,Vivien,Castaneda,12,lucius fox high school,gotham city public schools,gcps,gcps97256,healthcare,5
+13386,Kelly,Carroll,12,captain hook high school,neverland public schools,nps,nps13386,manufacturing,4
+91389,Aline,Mcbride,11,james gordon center for learning,gotham city public schools,gcps,gcps91389,healthcare,1
+88554,Morgan,Whitney,10,captain hook high school,neverland public schools,nps,nps88554,manufacturing,3
+10624,Amela,Tate,12,james gordon center for learning,gotham city public schools,gcps,gcps10624,,0
+89159,Evan,Mcleod,9,captain hook high school,neverland public schools,nps,nps89159,,4
+57385,Jack,Thomas,12,captain hook high school,neverland public schools,nps,nps57385,,1
+45094,Moses,Osborne,9,lucius fox high school,gotham city public schools,gcps,gcps45094,,2
+21198,Emmanuel,Sykes,11,lost boys academy,neverland public schools,nps,nps21198,,0
+69680,Thor,Dickson,9,lucius fox high school,gotham city public schools,gcps,gcps69680,healthcare,6
+53504,Buckminster,Benjamin,10,captain hook high school,neverland public schools,nps,nps53504,manufacturing,4
+94132,Hilel,Fernandez,9,captain hook high school,neverland public schools,nps,nps94132,manufacturing,2
+27213,Petra,Sykes,11,james gordon center for learning,gotham city public schools,gcps,gcps27213,healthcare,3
+32056,Jennifer,Ortiz,11,captain hook high school,neverland public schools,nps,nps32056,manufacturing,2
+25851,Jonas,Rodgers,12,lost boys academy,neverland public schools,nps,nps25851,,2
+22030,Carson,York,11,james gordon center for learning,gotham city public schools,gcps,gcps22030,healthcare,3
+90001,Cassandra,Burns,12,lucius fox high school,gotham city public schools,gcps,gcps90001,,0
+52205,Nevada,Berger,10,captain hook high school,neverland public schools,nps,nps52205,manufacturing,1
+18210,Oliver,Le,11,captain hook high school,neverland public schools,nps,nps18210,,0
+18974,Jescie,Ruiz,9,james gordon center for learning,gotham city public schools,gcps,gcps18974,healthcare,3
+41352,Joshua,Morales,12,lost boys academy,neverland public schools,nps,nps41352,,1
+13076,Carissa,Schmidt,12,lucius fox high school,gotham city public schools,gcps,gcps13076,,5
+23622,Aristotle,Finch,11,james gordon center for learning,gotham city public schools,gcps,gcps23622,healthcare,1
+33151,Pascale,Mills,11,james gordon center for learning,gotham city public schools,gcps,gcps33151,healthcare,1
+83722,Lucas,Holt,10,lost boys academy,neverland public schools,nps,nps83722,,0
+70673,Ulric,Kramer,11,lost boys academy,neverland public schools,nps,nps70673,manufacturing,2
+75410,Clinton,Ortega,11,james gordon center for learning,gotham city public schools,gcps,gcps75410,,0
+35077,Lars,Gonzalez,11,lucius fox high school,gotham city public schools,gcps,gcps35077,,3
+28854,Belle,Gomez,12,captain hook high school,neverland public schools,nps,nps28854,,7
+22718,Sebastian,Rodriguez,12,captain hook high school,neverland public schools,nps,nps22718,,3
+17641,Yolanda,Bruce,12,james gordon center for learning,gotham city public schools,gcps,gcps17641,healthcare,2
+43518,Serena,Sloan,12,captain hook high school,neverland public schools,nps,nps43518,manufacturing,1
+75288,Dane,Cline,12,lost boys academy,neverland public schools,nps,nps75288,,1
+41017,Luke,Perry,9,lucius fox high school,gotham city public schools,gcps,gcps41017,,0
+35236,Nash,Hendrix,12,lost boys academy,neverland public schools,nps,nps35236,manufacturing,4
+66813,Tanek,Hester,10,captain hook high school,neverland public schools,nps,nps66813,,1
+79435,Brennan,Talley,9,lost boys academy,neverland public schools,nps,nps79435,,2
+11030,Noah,Ellison,11,lost boys academy,neverland public schools,nps,nps11030,manufacturing,2
+98273,Kameko,Guerrero,11,captain hook high school,neverland public schools,nps,nps98273,,2
+58354,Dylan,Wood,9,lucius fox high school,gotham city public schools,gcps,gcps58354,healthcare,2
+16802,Robert,Torres,11,lost boys academy,neverland public schools,nps,nps16802,manufacturing,2
+33557,Marvin,Morin,12,james gordon center for learning,gotham city public schools,gcps,gcps33557,healthcare,1
+95613,Colleen,Harvey,12,lucius fox high school,gotham city public schools,gcps,gcps95613,,1
+33174,Zeph,Herring,12,captain hook high school,neverland public schools,nps,nps33174,manufacturing,0
+25758,Aline,Holmes,12,captain hook high school,neverland public schools,nps,nps25758,manufacturing,3
+35640,Rana,Morrison,9,lost boys academy,neverland public schools,nps,nps35640,,1
+79334,Jacob,Newman,12,lost boys academy,neverland public schools,nps,nps79334,,2
+56325,Uma,Rasmussen,11,lucius fox high school,gotham city public schools,gcps,gcps56325,,0
+69828,Jarrod,Austin,11,captain hook high school,neverland public schools,nps,nps69828,,1
+67969,Tashya,Hodges,9,lucius fox high school,gotham city public schools,gcps,gcps67969,healthcare,3
+52907,Lee,Shaw,12,lucius fox high school,gotham city public schools,gcps,gcps52907,healthcare,1
+95063,Madonna,Quinn,9,james gordon center for learning,gotham city public schools,gcps,gcps95063,,0
+18692,Caesar,Hodge,9,lost boys academy,neverland public schools,nps,nps18692,,0
+23697,Dalton,Sherman,9,captain hook high school,neverland public schools,nps,nps23697,,0
+41971,Roary,Conway,11,james gordon center for learning,gotham city public schools,gcps,gcps41971,healthcare,2
+40307,Mechelle,Suarez,9,lucius fox high school,gotham city public schools,gcps,gcps40307,healthcare,2
+58807,Maisie,Griffith,12,captain hook high school,neverland public schools,nps,nps58807,,0
+60287,Fredericka,Bridges,11,james gordon center for learning,gotham city public schools,gcps,gcps60287,healthcare,3
+77125,Brady,Marks,11,lost boys academy,neverland public schools,nps,nps77125,,1
+94017,Chadwick,Love,9,captain hook high school,neverland public schools,nps,nps94017,manufacturing,3
+50956,Carissa,Bradshaw,10,lost boys academy,neverland public schools,nps,nps50956,,0
+11548,Daryl,Munoz,12,james gordon center for learning,gotham city public schools,gcps,gcps11548,,1
+80860,Fulton,Fuentes,12,james gordon center for learning,gotham city public schools,gcps,gcps80860,,3
+68856,Iris,English,12,james gordon center for learning,gotham city public schools,gcps,gcps68856,,1
+32121,Ainsley,Winters,9,james gordon center for learning,gotham city public schools,gcps,gcps32121,,1
+95868,Zahir,Gilliam,12,captain hook high school,neverland public schools,nps,nps95868,manufacturing,3
+40539,Ciaran,Mcmillan,9,james gordon center for learning,gotham city public schools,gcps,gcps40539,,0
+92869,Aaron,Talley,10,lucius fox high school,gotham city public schools,gcps,gcps92869,,5
+57243,Tucker,Gaines,9,captain hook high school,neverland public schools,nps,nps57243,,2
+80019,Levi,Garrison,10,lucius fox high school,gotham city public schools,gcps,gcps80019,,0
+84169,Julie,Fuentes,11,lucius fox high school,gotham city public schools,gcps,gcps84169,,2
+53125,Odysseus,Meyers,11,james gordon center for learning,gotham city public schools,gcps,gcps53125,,2
+42481,Nadine,Fletcher,9,captain hook high school,neverland public schools,nps,nps42481,manufacturing,1
+97099,Nolan,Kirkland,12,captain hook high school,neverland public schools,nps,nps97099,manufacturing,1
+90329,Lani,Gomez,9,lucius fox high school,gotham city public schools,gcps,gcps90329,healthcare,1
+17877,Ryan,Mathis,12,lucius fox high school,gotham city public schools,gcps,gcps17877,healthcare,9
+17339,Brody,Booth,12,captain hook high school,neverland public schools,nps,nps17339,manufacturing,0
+61162,Stone,Tyson,11,james gordon center for learning,gotham city public schools,gcps,gcps61162,,0
+77883,Rebecca,Church,11,lost boys academy,neverland public schools,nps,nps77883,,2
+88851,Leroy,Hahn,9,captain hook high school,neverland public schools,nps,nps88851,manufacturing,2
+32512,Tobias,Hunter,9,captain hook high school,neverland public schools,nps,nps32512,manufacturing,3
+81546,Gavin,Owens,10,lucius fox high school,gotham city public schools,gcps,gcps81546,,2
+60013,Jakeem,Farmer,12,lucius fox high school,gotham city public schools,gcps,gcps60013,,4
+21645,Kieran,Petersen,12,james gordon center for learning,gotham city public schools,gcps,gcps21645,healthcare,1
+57925,Bruno,Weiss,10,lucius fox high school,gotham city public schools,gcps,gcps57925,,3
+26426,Kibo,Farmer,9,lucius fox high school,gotham city public schools,gcps,gcps26426,healthcare,2
+83369,Lara,Gamble,11,lost boys academy,neverland public schools,nps,nps83369,manufacturing,1
+23736,Noelani,Phelps,12,lucius fox high school,gotham city public schools,gcps,gcps23736,healthcare,2
+39121,Ian,Glover,12,james gordon center for learning,gotham city public schools,gcps,gcps39121,healthcare,1
+22342,Cheryl,Mills,10,lost boys academy,neverland public schools,nps,nps22342,,3
+54879,Michael,Fuller,10,captain hook high school,neverland public schools,nps,nps54879,manufacturing,3
+59464,Cadman,Albert,10,lucius fox high school,gotham city public schools,gcps,gcps59464,healthcare,3
+13452,Ciara,Branch,9,james gordon center for learning,gotham city public schools,gcps,gcps13452,healthcare,2
+23159,Carol,Love,10,lucius fox high school,gotham city public schools,gcps,gcps23159,healthcare,3
+71882,Christen,Rich,10,lost boys academy,neverland public schools,nps,nps71882,manufacturing,3
+17883,Jakeem,Giles,12,lost boys academy,neverland public schools,nps,nps17883,,0
+74599,Curran,Mcpherson,10,lost boys academy,neverland public schools,nps,nps74599,,1
+95695,Kevyn,Love,11,james gordon center for learning,gotham city public schools,gcps,gcps95695,healthcare,2
+15051,Burton,Travis,11,lost boys academy,neverland public schools,nps,nps15051,manufacturing,1
+13232,Jillian,Weeks,11,lost boys academy,neverland public schools,nps,nps13232,manufacturing,2
+35672,Brittany,Mason,9,lucius fox high school,gotham city public schools,gcps,gcps35672,healthcare,4
+50988,Mannix,Dillon,10,lucius fox high school,gotham city public schools,gcps,gcps50988,,0
+18639,Finn,Bright,10,lucius fox high school,gotham city public schools,gcps,gcps18639,,3
+49528,Dexter,Donaldson,11,lost boys academy,neverland public schools,nps,nps49528,,3
+14324,Amaya,Stanley,9,captain hook high school,neverland public schools,nps,nps14324,manufacturing,0
+43158,Dalton,Cohen,11,captain hook high school,neverland public schools,nps,nps43158,,1
+11407,Camilla,Long,11,captain hook high school,neverland public schools,nps,nps11407,manufacturing,1
+64746,Debra,Horn,11,lucius fox high school,gotham city public schools,gcps,gcps64746,,1
+35214,Quinn,Stafford,9,lost boys academy,neverland public schools,nps,nps35214,manufacturing,2
+73602,Iola,Goff,12,lost boys academy,neverland public schools,nps,nps73602,manufacturing,1
+41001,Tate,Vega,10,captain hook high school,neverland public schools,nps,nps41001,manufacturing,3
+97137,Tyler,Santiago,9,lost boys academy,neverland public schools,nps,nps97137,,2
+78292,Mannix,Shannon,12,james gordon center for learning,gotham city public schools,gcps,gcps78292,healthcare,1
+65481,Cade,English,11,lucius fox high school,gotham city public schools,gcps,gcps65481,healthcare,5
+53027,Ralph,Hebert,11,lucius fox high school,gotham city public schools,gcps,gcps53027,,6
+29338,Avye,Dunn,9,captain hook high school,neverland public schools,nps,nps29338,manufacturing,4
+34623,James,Hood,9,james gordon center for learning,gotham city public schools,gcps,gcps34623,healthcare,0
+43612,Yetta,House,10,lucius fox high school,gotham city public schools,gcps,gcps43612,,0
+82128,Levi,Ramos,9,captain hook high school,neverland public schools,nps,nps82128,manufacturing,3
+75709,Kaseem,Sloan,12,captain hook high school,neverland public schools,nps,nps75709,,2
+88358,Todd,Jenkins,10,lost boys academy,neverland public schools,nps,nps88358,manufacturing,3
+35255,Jesse,Pacheco,12,james gordon center for learning,gotham city public schools,gcps,gcps35255,healthcare,0
+24042,Lane,Turner,12,james gordon center for learning,gotham city public schools,gcps,gcps24042,,1
+14886,Reece,Dodson,9,james gordon center for learning,gotham city public schools,gcps,gcps14886,,3
+95724,Caldwell,Nash,12,lucius fox high school,gotham city public schools,gcps,gcps95724,,3
+80549,Aphrodite,Haynes,9,captain hook high school,neverland public schools,nps,nps80549,,1
+18862,Willa,Holcomb,12,lost boys academy,neverland public schools,nps,nps18862,manufacturing,1
+28612,Gage,Suarez,9,lost boys academy,neverland public schools,nps,nps28612,manufacturing,1
+13558,Gretchen,Payne,12,captain hook high school,neverland public schools,nps,nps13558,,0
+63999,Dante,Rivas,12,captain hook high school,neverland public schools,nps,nps63999,,2
+41378,Allistair,Carson,10,lost boys academy,neverland public schools,nps,nps41378,,5
+67069,Knox,Nixon,12,lost boys academy,neverland public schools,nps,nps67069,,0
+43259,Ina,French,10,lucius fox high school,gotham city public schools,gcps,gcps43259,,2
+94967,Anthony,Brock,11,lost boys academy,neverland public schools,nps,nps94967,manufacturing,2
+99474,Alexa,Rowe,11,james gordon center for learning,gotham city public schools,gcps,gcps99474,healthcare,1
+97674,Brock,Garner,10,captain hook high school,neverland public schools,nps,nps97674,manufacturing,6
+75239,Dieter,Day,12,james gordon center for learning,gotham city public schools,gcps,gcps75239,,0
+66161,Vanna,Richards,11,lost boys academy,neverland public schools,nps,nps66161,,3
+63949,Tyler,Holcomb,11,lost boys academy,neverland public schools,nps,nps63949,manufacturing,1
+46854,Clarke,Kirk,9,captain hook high school,neverland public schools,nps,nps46854,manufacturing,1
+51648,Garrison,Hurst,11,captain hook high school,neverland public schools,nps,nps51648,,4
+85253,Ursula,Coleman,10,captain hook high school,neverland public schools,nps,nps85253,,0
+12445,Carson,Vargas,12,lucius fox high school,gotham city public schools,gcps,gcps12445,healthcare,1
+31211,Stacy,Salas,11,lost boys academy,neverland public schools,nps,nps31211,,2
+90252,Edward,Merritt,9,captain hook high school,neverland public schools,nps,nps90252,manufacturing,1
+18486,Abraham,Doyle,11,lucius fox high school,gotham city public schools,gcps,gcps18486,healthcare,3
+30828,Lester,Johnson,10,captain hook high school,neverland public schools,nps,nps30828,manufacturing,2
+65163,Dora,Campbell,12,james gordon center for learning,gotham city public schools,gcps,gcps65163,,0
+85332,Nero,Page,11,james gordon center for learning,gotham city public schools,gcps,gcps85332,healthcare,1
+60732,Rigel,Pope,12,captain hook high school,neverland public schools,nps,nps60732,,2
+15430,Yeo,Lawrence,9,lucius fox high school,gotham city public schools,gcps,gcps15430,,4
+13607,Michelle,Cobb,10,captain hook high school,neverland public schools,nps,nps13607,manufacturing,2
+62620,Shafira,Mills,10,lost boys academy,neverland public schools,nps,nps62620,manufacturing,2
+43416,Lara,Foreman,11,james gordon center for learning,gotham city public schools,gcps,gcps43416,healthcare,1
+62863,Jeanette,Fitzpatrick,9,captain hook high school,neverland public schools,nps,nps62863,manufacturing,6
+83460,Wylie,Strong,9,james gordon center for learning,gotham city public schools,gcps,gcps83460,,0
+39758,Lucius,Maxwell,11,james gordon center for learning,gotham city public schools,gcps,gcps39758,healthcare,1
+24646,Merritt,Acosta,11,lost boys academy,neverland public schools,nps,nps24646,,3
+68521,Camille,Daniels,10,lucius fox high school,gotham city public schools,gcps,gcps68521,,1
+96883,Cecilia,Zamora,12,lost boys academy,neverland public schools,nps,nps96883,manufacturing,2
+94362,George,Mills,11,captain hook high school,neverland public schools,nps,nps94362,,2
+50171,Ariel,Gibbs,12,james gordon center for learning,gotham city public schools,gcps,gcps50171,,3
+12779,Zeph,Watts,10,lucius fox high school,gotham city public schools,gcps,gcps12779,,4
+70197,Portia,Bradley,9,james gordon center for learning,gotham city public schools,gcps,gcps70197,,1
+89412,Slade,English,11,captain hook high school,neverland public schools,nps,nps89412,manufacturing,2
+63411,Josephine,Willis,11,captain hook high school,neverland public schools,nps,nps63411,,0
+56032,Vivien,Moody,9,captain hook high school,neverland public schools,nps,nps56032,,2
+34798,Vielka,Cline,10,lucius fox high school,gotham city public schools,gcps,gcps34798,healthcare,2
+56389,Griffith,Mcfadden,9,lucius fox high school,gotham city public schools,gcps,gcps56389,,3
+21068,Mara,Hunter,11,james gordon center for learning,gotham city public schools,gcps,gcps21068,healthcare,1
+64727,Carlos,Kirk,10,lost boys academy,neverland public schools,nps,nps64727,,0
+39332,Cadman,Reilly,10,captain hook high school,neverland public schools,nps,nps39332,manufacturing,2
+14364,Paul,Durham,11,captain hook high school,neverland public schools,nps,nps14364,manufacturing,4
+94534,Xaviera,Collins,12,lost boys academy,neverland public schools,nps,nps94534,,1
+15023,Desirae,Quinn,9,james gordon center for learning,gotham city public schools,gcps,gcps15023,,2
+83742,Xena,Burns,12,james gordon center for learning,gotham city public schools,gcps,gcps83742,healthcare,1
+46456,Frances,Cameron,12,james gordon center for learning,gotham city public schools,gcps,gcps46456,healthcare,2
+85842,Perry,Chambers,12,captain hook high school,neverland public schools,nps,nps85842,manufacturing,2
+28107,Mallory,Fuller,9,captain hook high school,neverland public schools,nps,nps28107,manufacturing,1
+80671,Adrienne,Huff,9,captain hook high school,neverland public schools,nps,nps80671,manufacturing,3
+25578,Risa,Graves,11,lucius fox high school,gotham city public schools,gcps,gcps25578,healthcare,3
+56520,Pascale,Mitchell,11,lost boys academy,neverland public schools,nps,nps56520,manufacturing,0
+37139,Emmanuel,Ballard,10,captain hook high school,neverland public schools,nps,nps37139,manufacturing,2
+64478,Harding,Bond,10,captain hook high school,neverland public schools,nps,nps64478,manufacturing,1
+18882,Ifeoma,Tyson,9,captain hook high school,neverland public schools,nps,nps18882,,1
+69101,Nicole,Casey,9,lost boys academy,neverland public schools,nps,nps69101,,1
+95412,Gavin,Huber,9,james gordon center for learning,gotham city public schools,gcps,gcps95412,,3
+56352,Nichole,Cantrell,11,captain hook high school,neverland public schools,nps,nps56352,manufacturing,1
+65934,Marsden,Patton,12,lost boys academy,neverland public schools,nps,nps65934,,0
+30390,Daria,Wallace,10,lucius fox high school,gotham city public schools,gcps,gcps30390,healthcare,3
+55584,Claire,Saunders,9,captain hook high school,neverland public schools,nps,nps55584,,3
+77525,Tyrone,Serrano,10,lost boys academy,neverland public schools,nps,nps77525,manufacturing,3
+43451,Timon,Chapman,11,captain hook high school,neverland public schools,nps,nps43451,manufacturing,0
+71191,Neil,Mccoy,11,james gordon center for learning,gotham city public schools,gcps,gcps71191,healthcare,4
+42133,Claire,Mclaughlin,9,lucius fox high school,gotham city public schools,gcps,gcps42133,,4
+37040,Nyssa,Hardin,11,james gordon center for learning,gotham city public schools,gcps,gcps37040,healthcare,1
+33286,McKenzie,Woods,9,lucius fox high school,gotham city public schools,gcps,gcps33286,,3
+15747,Travis,Osborn,11,james gordon center for learning,gotham city public schools,gcps,gcps15747,,2
+38066,Althea,Vazquez,11,james gordon center for learning,gotham city public schools,gcps,gcps38066,,0
+81578,Natalie,Roach,10,lost boys academy,neverland public schools,nps,nps81578,manufacturing,3
+41724,Hayley,Morrow,11,james gordon center for learning,gotham city public schools,gcps,gcps41724,healthcare,3
+27577,Fredericka,Ramsey,10,lost boys academy,neverland public schools,nps,nps27577,,0
+30497,Lynn,Whitley,12,james gordon center for learning,gotham city public schools,gcps,gcps30497,,1
+28023,Keegan,Campbell,11,lost boys academy,neverland public schools,nps,nps28023,,0
+54798,Serena,Underwood,11,lost boys academy,neverland public schools,nps,nps54798,manufacturing,2
+98557,Uriah,Hunter,12,james gordon center for learning,gotham city public schools,gcps,gcps98557,healthcare,2
+87920,Abdul,Bradley,9,james gordon center for learning,gotham city public schools,gcps,gcps87920,,0
+21995,Harrison,Warner,12,captain hook high school,neverland public schools,nps,nps21995,manufacturing,3
+34402,Sierra,Meyer,10,lucius fox high school,gotham city public schools,gcps,gcps34402,healthcare,5
+17071,Kellie,Tate,11,lost boys academy,neverland public schools,nps,nps17071,,0
+40564,Michelle,Byers,12,james gordon center for learning,gotham city public schools,gcps,gcps40564,healthcare,1
+27275,Julie,Singleton,9,james gordon center for learning,gotham city public schools,gcps,gcps27275,,0
+24755,Petra,Reeves,11,james gordon center for learning,gotham city public schools,gcps,gcps24755,healthcare,0
+80232,Shad,Russo,10,captain hook high school,neverland public schools,nps,nps80232,,2
+55318,Demetria,Barber,11,lost boys academy,neverland public schools,nps,nps55318,manufacturing,2
+93449,Clementine,Flowers,9,captain hook high school,neverland public schools,nps,nps93449,manufacturing,4
+85783,Roth,Bridges,11,james gordon center for learning,gotham city public schools,gcps,gcps85783,,2
+71533,Deborah,Burris,12,lost boys academy,neverland public schools,nps,nps71533,manufacturing,1
+87241,Eve,Nunez,9,lost boys academy,neverland public schools,nps,nps87241,,0
+81119,Gregory,Ellison,12,lucius fox high school,gotham city public schools,gcps,gcps81119,healthcare,2
+15635,Ivan,Owens,11,captain hook high school,neverland public schools,nps,nps15635,manufacturing,1
+71394,Rhoda,Miller,9,james gordon center for learning,gotham city public schools,gcps,gcps71394,healthcare,1
+41449,Malcolm,Bender,9,lost boys academy,neverland public schools,nps,nps41449,,4
+27738,Colette,Davenport,12,captain hook high school,neverland public schools,nps,nps27738,manufacturing,2
+43748,Emily,Greer,12,james gordon center for learning,gotham city public schools,gcps,gcps43748,healthcare,1
+79936,Ciara,Walls,10,lost boys academy,neverland public schools,nps,nps79936,manufacturing,3
+18976,Anthony,Yang,11,captain hook high school,neverland public schools,nps,nps18976,,2
+74777,Nehru,Johnston,12,james gordon center for learning,gotham city public schools,gcps,gcps74777,healthcare,1
+31123,Aaron,Sosa,11,james gordon center for learning,gotham city public schools,gcps,gcps31123,healthcare,2
+74132,Keiko,Curtis,11,lost boys academy,neverland public schools,nps,nps74132,manufacturing,2
+35411,Lucius,Mccullough,12,james gordon center for learning,gotham city public schools,gcps,gcps35411,,2
+58728,Quamar,Gordon,9,captain hook high school,neverland public schools,nps,nps58728,,3
+11571,Zeus,Finch,12,captain hook high school,neverland public schools,nps,nps11571,,0
+86054,Stephanie,Stewart,9,james gordon center for learning,gotham city public schools,gcps,gcps86054,healthcare,1
+97135,Adena,Espinoza,10,lucius fox high school,gotham city public schools,gcps,gcps97135,healthcare,3
+93135,Burton,Kline,12,james gordon center for learning,gotham city public schools,gcps,gcps93135,healthcare,0
+10967,Blake,Orr,12,james gordon center for learning,gotham city public schools,gcps,gcps10967,healthcare,1
+66751,Odysseus,Mercer,11,captain hook high school,neverland public schools,nps,nps66751,,0
+73182,Tyrone,Carr,10,lucius fox high school,gotham city public schools,gcps,gcps73182,,3
+78484,Quinlan,English,9,captain hook high school,neverland public schools,nps,nps78484,,0
+68419,Beatrice,Ferguson,10,lost boys academy,neverland public schools,nps,nps68419,manufacturing,2
+90120,Brett,Reyes,12,lost boys academy,neverland public schools,nps,nps90120,manufacturing,1
+57437,Maryam,Reyes,11,james gordon center for learning,gotham city public schools,gcps,gcps57437,,3
+85130,Owen,Holcomb,12,captain hook high school,neverland public schools,nps,nps85130,manufacturing,3
+22191,Virginia,Roberson,11,lost boys academy,neverland public schools,nps,nps22191,,1
+19379,Florence,Mann,9,captain hook high school,neverland public schools,nps,nps19379,manufacturing,3
+27404,Hakeem,Sanchez,11,captain hook high school,neverland public schools,nps,nps27404,,1
+91722,Shelley,Jimenez,12,lost boys academy,neverland public schools,nps,nps91722,manufacturing,2
+39136,Courtney,Gilliam,11,captain hook high school,neverland public schools,nps,nps39136,,1
+85687,Nelle,Best,12,lost boys academy,neverland public schools,nps,nps85687,,3
+62871,Chelsea,Branch,11,james gordon center for learning,gotham city public schools,gcps,gcps62871,healthcare,1
+88844,Quynn,Lawrence,11,james gordon center for learning,gotham city public schools,gcps,gcps88844,healthcare,2
+56296,Hanna,Sears,9,james gordon center for learning,gotham city public schools,gcps,gcps56296,healthcare,1
+20167,Colton,Brock,10,lucius fox high school,gotham city public schools,gcps,gcps20167,,2
+24704,Quail,Leach,12,lost boys academy,neverland public schools,nps,nps24704,manufacturing,3
+95940,Reese,Mccullough,12,lucius fox high school,gotham city public schools,gcps,gcps95940,,2
+89859,Eric,Hatfield,9,lost boys academy,neverland public schools,nps,nps89859,manufacturing,2
+77966,Giacomo,Conley,9,lost boys academy,neverland public schools,nps,nps77966,manufacturing,2
+18093,Camille,Franklin,11,captain hook high school,neverland public schools,nps,nps18093,manufacturing,2
+93139,Emmanuel,Anthony,9,lost boys academy,neverland public schools,nps,nps93139,manufacturing,2
+21724,Regan,Cervantes,10,lost boys academy,neverland public schools,nps,nps21724,,0
+22084,Velma,Hogan,11,lucius fox high school,gotham city public schools,gcps,gcps22084,healthcare,3
+47152,Stacy,Gibson,11,lucius fox high school,gotham city public schools,gcps,gcps47152,,2
+31546,Carla,Duke,11,lost boys academy,neverland public schools,nps,nps31546,,2
+44334,Kim,Francis,12,lucius fox high school,gotham city public schools,gcps,gcps44334,,3
+83618,Cullen,Cobb,12,captain hook high school,neverland public schools,nps,nps83618,,0
+72049,Cecilia,Swanson,11,captain hook high school,neverland public schools,nps,nps72049,,1
+66419,Ross,Parker,11,james gordon center for learning,gotham city public schools,gcps,gcps66419,,2
+30665,Leonard,Weeks,9,lucius fox high school,gotham city public schools,gcps,gcps30665,healthcare,3
+74942,Jael,Lott,11,captain hook high school,neverland public schools,nps,nps74942,manufacturing,4
+10998,Rinah,Fitzgerald,9,james gordon center for learning,gotham city public schools,gcps,gcps10998,healthcare,0
+83242,Nadine,Mullen,9,captain hook high school,neverland public schools,nps,nps83242,,0
+63993,Dara,Pratt,11,lucius fox high school,gotham city public schools,gcps,gcps63993,,2
+99772,Paula,Hartman,10,lost boys academy,neverland public schools,nps,nps99772,manufacturing,1
+28629,Pearl,Cherry,10,lost boys academy,neverland public schools,nps,nps28629,manufacturing,1
+76920,Constance,Haley,9,captain hook high school,neverland public schools,nps,nps76920,,2
+23957,Erasmus,Cleveland,12,james gordon center for learning,gotham city public schools,gcps,gcps23957,healthcare,0
+62839,Eve,Vaughn,9,james gordon center for learning,gotham city public schools,gcps,gcps62839,,0
+86065,MacKenzie,Jefferson,11,lucius fox high school,gotham city public schools,gcps,gcps86065,,1
+77947,Drew,Vincent,10,captain hook high school,neverland public schools,nps,nps77947,manufacturing,3
+38077,Nissim,Gallagher,12,lucius fox high school,gotham city public schools,gcps,gcps38077,,2
+54984,Hammett,Barber,12,lost boys academy,neverland public schools,nps,nps54984,,3
+20717,Naomi,Mccullough,11,james gordon center for learning,gotham city public schools,gcps,gcps20717,,2
+31231,Damian,Curtis,11,james gordon center for learning,gotham city public schools,gcps,gcps31231,,1
+13648,Brynn,Rush,12,james gordon center for learning,gotham city public schools,gcps,gcps13648,healthcare,2
+96468,Grace,Wise,12,lost boys academy,neverland public schools,nps,nps96468,,0
+74687,Nina,Bright,11,captain hook high school,neverland public schools,nps,nps74687,,1
+99940,Callum,Rosa,12,lost boys academy,neverland public schools,nps,nps99940,manufacturing,0
+26429,Tyrone,Dejesus,10,captain hook high school,neverland public schools,nps,nps26429,,3
+98156,Bo,Whitaker,11,james gordon center for learning,gotham city public schools,gcps,gcps98156,healthcare,5
+18148,Acton,Macias,11,lost boys academy,neverland public schools,nps,nps18148,manufacturing,2
+56214,Chase,Hendricks,11,lucius fox high school,gotham city public schools,gcps,gcps56214,,0
+35179,Quemby,Parks,10,captain hook high school,neverland public schools,nps,nps35179,manufacturing,1
+18867,Cleo,Logan,9,lucius fox high school,gotham city public schools,gcps,gcps18867,healthcare,1
+64323,Ruby,Schultz,9,lost boys academy,neverland public schools,nps,nps64323,,3
+85794,Francis,Olson,11,james gordon center for learning,gotham city public schools,gcps,gcps85794,healthcare,1
+83126,Dora,Alexander,10,lost boys academy,neverland public schools,nps,nps83126,,4
+27834,Ramona,Cherry,12,james gordon center for learning,gotham city public schools,gcps,gcps27834,,1
+43381,Addison,Foley,9,lucius fox high school,gotham city public schools,gcps,gcps43381,healthcare,1
+78751,Eaton,Ashley,12,captain hook high school,neverland public schools,nps,nps78751,manufacturing,4
+12159,Driscoll,Savage,10,lost boys academy,neverland public schools,nps,nps12159,manufacturing,2
+30466,Fulton,Bennett,11,james gordon center for learning,gotham city public schools,gcps,gcps30466,healthcare,1
+32853,Russell,Dodson,10,lucius fox high school,gotham city public schools,gcps,gcps32853,,7
+97306,Aiko,Reeves,11,captain hook high school,neverland public schools,nps,nps97306,,3
+44802,Charity,Mcdonald,12,captain hook high school,neverland public schools,nps,nps44802,manufacturing,2
+10490,Daquan,Murphy,9,captain hook high school,neverland public schools,nps,nps10490,manufacturing,3
+47311,Montana,Doyle,11,lucius fox high school,gotham city public schools,gcps,gcps47311,healthcare,3
+12078,Bianca,Hubbard,12,lost boys academy,neverland public schools,nps,nps12078,,1
+14670,Regina,Barnett,9,james gordon center for learning,gotham city public schools,gcps,gcps14670,,2
+78273,Nina,Calhoun,12,lucius fox high school,gotham city public schools,gcps,gcps78273,healthcare,3
+62078,Forrest,Clarke,12,james gordon center for learning,gotham city public schools,gcps,gcps62078,healthcare,1
+72881,Valentine,Zimmerman,11,captain hook high school,neverland public schools,nps,nps72881,manufacturing,0
+67879,Ignacia,Walter,11,james gordon center for learning,gotham city public schools,gcps,gcps67879,healthcare,2
+47135,Lilah,Campos,9,lost boys academy,neverland public schools,nps,nps47135,,2
+40588,Jade,Heath,12,captain hook high school,neverland public schools,nps,nps40588,manufacturing,1
+88800,Wynter,Poole,10,captain hook high school,neverland public schools,nps,nps88800,manufacturing,5
+15860,Aristotle,Clark,10,lucius fox high school,gotham city public schools,gcps,gcps15860,healthcare,2
+85397,Nathaniel,Cooper,11,lost boys academy,neverland public schools,nps,nps85397,manufacturing,3
+56422,Aspen,Spence,9,james gordon center for learning,gotham city public schools,gcps,gcps56422,healthcare,5
+88740,Hunter,Houston,11,james gordon center for learning,gotham city public schools,gcps,gcps88740,healthcare,0
+60624,Hanna,Mills,9,lost boys academy,neverland public schools,nps,nps60624,,1
+14591,Chantale,Peck,11,captain hook high school,neverland public schools,nps,nps14591,manufacturing,2
+12693,Camden,Lyons,12,captain hook high school,neverland public schools,nps,nps12693,manufacturing,2
+23316,Keegan,Bass,10,lucius fox high school,gotham city public schools,gcps,gcps23316,healthcare,4
+67799,Zane,Pearson,11,captain hook high school,neverland public schools,nps,nps67799,manufacturing,3
+75418,David,Harvey,12,lucius fox high school,gotham city public schools,gcps,gcps75418,healthcare,0
+36529,Suki,Carter,9,james gordon center for learning,gotham city public schools,gcps,gcps36529,,1
+27418,Palmer,Compton,9,lucius fox high school,gotham city public schools,gcps,gcps27418,,3
+76031,Dane,Best,12,lost boys academy,neverland public schools,nps,nps76031,manufacturing,0
+12598,Cody,Mcpherson,9,lost boys academy,neverland public schools,nps,nps12598,,3
+66484,Dale,Dean,12,lost boys academy,neverland public schools,nps,nps66484,manufacturing,1
+52718,Skyler,Myers,10,lost boys academy,neverland public schools,nps,nps52718,manufacturing,1
+36706,Libby,Fox,10,captain hook high school,neverland public schools,nps,nps36706,manufacturing,3
+59921,Germaine,Prince,11,james gordon center for learning,gotham city public schools,gcps,gcps59921,,1
+41237,Porter,Ashley,9,lost boys academy,neverland public schools,nps,nps41237,manufacturing,1
+64734,Shad,Phillips,11,lucius fox high school,gotham city public schools,gcps,gcps64734,healthcare,2
+58675,Nadine,Murphy,11,captain hook high school,neverland public schools,nps,nps58675,manufacturing,2
+65947,Samuel,Leonard,12,captain hook high school,neverland public schools,nps,nps65947,manufacturing,2
+43406,Sheila,Jackson,11,captain hook high school,neverland public schools,nps,nps43406,,0
+51376,Hamilton,Petersen,11,james gordon center for learning,gotham city public schools,gcps,gcps51376,,0
+61272,Imelda,Meyer,11,lucius fox high school,gotham city public schools,gcps,gcps61272,healthcare,4
+82711,Willow,Reynolds,11,lucius fox high school,gotham city public schools,gcps,gcps82711,healthcare,2
+33426,Constance,Guy,10,captain hook high school,neverland public schools,nps,nps33426,manufacturing,1
+92739,Gareth,Sweeney,11,james gordon center for learning,gotham city public schools,gcps,gcps92739,,2
+25918,Hedley,Duran,12,captain hook high school,neverland public schools,nps,nps25918,,0
+88616,Wing,Branch,10,lucius fox high school,gotham city public schools,gcps,gcps88616,,2
+14834,Basil,Yates,11,james gordon center for learning,gotham city public schools,gcps,gcps14834,,0
+44420,Pearl,Clay,10,captain hook high school,neverland public schools,nps,nps44420,manufacturing,3
+73631,Hamish,Stone,12,lost boys academy,neverland public schools,nps,nps73631,manufacturing,2
+41326,Hollee,Vargas,12,captain hook high school,neverland public schools,nps,nps41326,manufacturing,3
+96036,Stewart,Walker,12,james gordon center for learning,gotham city public schools,gcps,gcps96036,,1
+19683,Wyoming,Webb,10,lucius fox high school,gotham city public schools,gcps,gcps19683,healthcare,2
+82577,Fletcher,Burnett,10,lucius fox high school,gotham city public schools,gcps,gcps82577,healthcare,2
+16356,Alika,Buchanan,10,lucius fox high school,gotham city public schools,gcps,gcps16356,healthcare,1
+49104,Karleigh,Byers,9,james gordon center for learning,gotham city public schools,gcps,gcps49104,healthcare,1
+88311,Halee,Andrews,9,lucius fox high school,gotham city public schools,gcps,gcps88311,,0
+85854,Thane,Gilmore,10,lucius fox high school,gotham city public schools,gcps,gcps85854,healthcare,3
+34403,Kitra,Zimmerman,10,lost boys academy,neverland public schools,nps,nps34403,,1
+76414,Cruz,Boyd,11,captain hook high school,neverland public schools,nps,nps76414,manufacturing,1
+39431,Ria,Walton,10,lost boys academy,neverland public schools,nps,nps39431,manufacturing,3
+55456,Dexter,Delacruz,9,lost boys academy,neverland public schools,nps,nps55456,,1
+77450,Celeste,Mooney,9,james gordon center for learning,gotham city public schools,gcps,gcps77450,healthcare,3
+14022,Damian,Lott,9,lucius fox high school,gotham city public schools,gcps,gcps14022,healthcare,2
+69538,Vincent,Sweeney,9,lost boys academy,neverland public schools,nps,nps69538,,0
+74749,Chastity,Horne,12,james gordon center for learning,gotham city public schools,gcps,gcps74749,,0
+94683,Driscoll,Pennington,11,captain hook high school,neverland public schools,nps,nps94683,manufacturing,1
+77113,Orli,Travis,9,lost boys academy,neverland public schools,nps,nps77113,,4
